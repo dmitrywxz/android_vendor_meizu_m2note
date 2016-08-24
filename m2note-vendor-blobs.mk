@@ -273,7 +273,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libcam_utils.so:system/lib/libcam_utils.so \
     vendor/meizu/m2note/proprietary/system/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/meizu/m2note/proprietary/system/lib/libcamdrv.so:system/lib/libcamdrv.so \
-    vendor/meizu/m2note/proprietary/system/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/meizu/m2note/proprietary/system/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/meizu/m2note/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
@@ -494,7 +493,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libcam_utils.so:system/lib64/libcam_utils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcamalgo.so:system/lib64/libcamalgo.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcamdrv.so:system/lib64/libcamdrv.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcamera_client_mtk.so:system/lib64/libcamera_client_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
@@ -636,8 +634,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
     vendor/meizu/m2note/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
     vendor/meizu/m2note/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
-    vendor/meizu/m2note/proprietary/system/lib/libcameraservice.so:system/lib/libcameraservice.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxAdpcmEnc.so:system/lib64/libMtkOmxAdpcmEnc.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxAlacDec.so:system/lib64/libMtkOmxAlacDec.so \
