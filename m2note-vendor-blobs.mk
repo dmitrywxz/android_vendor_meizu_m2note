@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/dhcp6c:system/bin/dhcp6c \
     vendor/meizu/m2note/proprietary/system/bin/dhcp6ctl:system/bin/dhcp6ctl \
     vendor/meizu/m2note/proprietary/system/bin/dhcp6s:system/bin/dhcp6s \
-    vendor/meizu/m2note/proprietary/system/bin/dmlog:system/bin/dmlog \
     vendor/meizu/m2note/proprietary/system/bin/dualmdlogger:system/bin/dualmdlogger \
     vendor/meizu/m2note/proprietary/system/bin/em_svr:system/bin/em_svr \
     vendor/meizu/m2note/proprietary/system/bin/emdlogger1:system/bin/emdlogger1 \
