@@ -48,9 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/dhcp6c:system/bin/dhcp6c \
     vendor/meizu/m2note/proprietary/system/bin/dhcp6ctl:system/bin/dhcp6ctl \
     vendor/meizu/m2note/proprietary/system/bin/dhcp6s:system/bin/dhcp6s \
-    vendor/meizu/m2note/proprietary/system/bin/dualmdlogger:system/bin/dualmdlogger \
     vendor/meizu/m2note/proprietary/system/bin/em_svr:system/bin/em_svr \
-    vendor/meizu/m2note/proprietary/system/bin/emdlogger1:system/bin/emdlogger1 \
     vendor/meizu/m2note/proprietary/system/bin/fsck_msdos_mtk:system/bin/fsck_msdos_mtk \
     vendor/meizu/m2note/proprietary/system/bin/fuelgauged:system/bin/fuelgauged \
     vendor/meizu/m2note/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
@@ -66,14 +64,12 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/matv:system/bin/matv \
     vendor/meizu/m2note/proprietary/system/bin/mc6420d:system/bin/mc6420d \
     vendor/meizu/m2note/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
-    vendor/meizu/m2note/proprietary/system/bin/mdlogger:system/bin/mdlogger \
     vendor/meizu/m2note/proprietary/system/bin/memorydumper:system/bin/memorydumper \
     vendor/meizu/m2note/proprietary/system/bin/memsicd:system/bin/memsicd \
     vendor/meizu/m2note/proprietary/system/bin/memsicd3416x:system/bin/memsicd3416x \
     vendor/meizu/m2note/proprietary/system/bin/meta_tst:system/bin/meta_tst \
     vendor/meizu/m2note/proprietary/system/bin/mfv_ut:system/bin/mfv_ut \
     vendor/meizu/m2note/proprietary/system/bin/mmp:system/bin/mmp \
-    vendor/meizu/m2note/proprietary/system/bin/mobile_log_d:system/bin/mobile_log_d \
     vendor/meizu/m2note/proprietary/system/bin/msensord:system/bin/msensord \
     vendor/meizu/m2note/proprietary/system/bin/mtk_agpsd:system/bin/mtk_agpsd \
     vendor/meizu/m2note/proprietary/system/bin/mtk_setprop:system/bin/mtk_setprop \
