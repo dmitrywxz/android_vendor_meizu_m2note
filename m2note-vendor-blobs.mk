@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/audiocmdservice_atci:system/bin/audiocmdservice_atci \
     vendor/meizu/m2note/proprietary/system/bin/autokd:system/bin/autokd \
     vendor/meizu/m2note/proprietary/system/bin/badblocks:system/bin/badblocks \
-    vendor/meizu/m2note/proprietary/system/bin/factory:system/bin/factory \
     vendor/meizu/m2note/proprietary/system/bin/lcdc_screen_cap:system/bin/lcdc_screen_cap \
     vendor/meizu/m2note/proprietary/system/bin/bmm050d:system/bin/bmm050d \
     vendor/meizu/m2note/proprietary/system/bin/btconfig:system/bin/btconfig \
