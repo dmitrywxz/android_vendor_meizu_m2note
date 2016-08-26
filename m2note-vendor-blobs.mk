@@ -296,7 +296,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libged.so:system/lib/libged.so \
     vendor/meizu/m2note/proprietary/system/lib/libgifEncoder_jni.so:system/lib/libgifEncoder_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
-    vendor/meizu/m2note/proprietary/system/lib/libgralloc_extra.so:system/lib/libgralloc_extra.so \
     vendor/meizu/m2note/proprietary/system/lib/libgraphite2.so:system/lib/libgraphite2.so \
     vendor/meizu/m2note/proprietary/system/lib/libgui_ext.so:system/lib/libgui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib/libhotknot.so:system/lib/libhotknot.so \
@@ -515,7 +514,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libfile_op.so:system/lib64/libfile_op.so \
     vendor/meizu/m2note/proprietary/system/lib64/libged.so:system/lib64/libged.so \
     vendor/meizu/m2note/proprietary/system/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libgralloc_extra.so:system/lib64/libgralloc_extra.so \
     vendor/meizu/m2note/proprietary/system/lib64/libgraphite2.so:system/lib64/libgraphite2.so \
     vendor/meizu/m2note/proprietary/system/lib64/libgui_ext.so:system/lib64/libgui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib64/libhotknot.so:system/lib64/libhotknot.so \
