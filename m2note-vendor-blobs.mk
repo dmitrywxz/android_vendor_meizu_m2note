@@ -577,6 +577,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
+    vendor/meizu/m2note/proprietary/system/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-tpd.kl \
     vendor/meizu/m2note/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/meizu/m2note/proprietary/system/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/meizu/m2note/proprietary/system/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
