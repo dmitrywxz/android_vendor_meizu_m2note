@@ -425,7 +425,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmcode_image.so:system/lib64/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizu.camera.algo.so:system/lib64/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizucamera.so:system/lib64/libmeizucamera.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmobilesafe360-sdk-jni-524.2.so:system/lib64/libmobilesafe360-sdk-jni-524.2.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmzplayer.so:system/lib64/libmzplayer.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnative_blur.so:system/lib64/libnative_blur.so \
     vendor/meizu/m2note/proprietary/system/lib64/libpatch-1.0.1.so:system/lib64/libpatch-1.0.1.so \
