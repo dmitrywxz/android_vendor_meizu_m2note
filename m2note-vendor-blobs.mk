@@ -123,7 +123,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/firmware/modem_1_lwg_n.img:system/etc/firmware/modem_1_lwg_n.img \
     vendor/meizu/m2note/proprietary/system/etc/firmware/ROMv2_lm_patch_1_0_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_0_hdr.bin \
     vendor/meizu/m2note/proprietary/system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin \
-    vendor/meizu/m2note/proprietary/system/etc/firmware/S_ANDRO_SFL.ini:system/etc/firmware/S_ANDRO_SFL.ini \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
     vendor/meizu/m2note/proprietary/system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_1_ltg_n:system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_1_ltg_n \
@@ -145,7 +144,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/hwcomposer.mt6753.so:system/lib/hw/hwcomposer.mt6753.so \
-    vendor/meizu/m2note/proprietary/system/lib/hw/memtrack.mt6753.so:system/lib/hw/memtrack.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/mmsdk.default.so:system/lib/hw/mmsdk.default.so \
     vendor/meizu/m2note/proprietary/system/lib/lib3a.so:system/lib/lib3a.so \
     vendor/meizu/m2note/proprietary/system/lib/lib3a_sample.so:system/lib/lib3a_sample.so \
@@ -181,7 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libavcodec.so:system/lib/libavcodec.so \
     vendor/meizu/m2note/proprietary/system/lib/libavformat.so:system/lib/libavformat.so \
     vendor/meizu/m2note/proprietary/system/lib/libavutil.so:system/lib/libavutil.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib/libcfgdevparam.so:system/lib/libcfgdevparam.so \
     vendor/meizu/m2note/proprietary/system/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
@@ -411,7 +408,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libavcodec.so:system/lib64/libavcodec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libavformat.so:system/lib64/libavformat.so \
     vendor/meizu/m2note/proprietary/system/lib64/libavutil.so:system/lib64/libavutil.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libbt-aptX-ARM-4.2.2.so:system/lib64/libbt-aptX-ARM-4.2.2.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.common.meizu.so:system/lib64/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcfgdevparam.so:system/lib64/libcfgdevparam.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdlna_jni.so:system/lib64/libdlna_jni.so \
