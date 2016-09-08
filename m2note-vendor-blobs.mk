@@ -417,13 +417,11 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libFace.so:system/lib64/libFace.so \
     vendor/meizu/m2note/proprietary/system/lib64/libffmpeg_utils.so:system/lib64/libffmpeg_utils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimage_codec.so:system/lib64/libimage_codec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libipc_pref.527.1.so:system/lib64/libipc_pref.527.1.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmcode_image.so:system/lib64/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizu.camera.algo.so:system/lib64/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizucamera.so:system/lib64/libmeizucamera.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmzplayer.so:system/lib64/libmzplayer.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnative_blur.so:system/lib64/libnative_blur.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libpatch-1.0.1.so:system/lib64/libpatch-1.0.1.so \
     vendor/meizu/m2note/proprietary/system/lib64/librender_engine.so:system/lib64/librender_engine.so \
     vendor/meizu/m2note/proprietary/system/lib64/libsfb.so:system/lib64/libsfb.so \
     vendor/meizu/m2note/proprietary/system/lib64/libskia_hw_interface.so:system/lib64/libskia_hw_interface.so \
@@ -435,7 +433,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libswscale.so:system/lib64/libswscale.so \
     vendor/meizu/m2note/proprietary/system/lib64/libtaglib.so:system/lib64/libtaglib.so \
     vendor/meizu/m2note/proprietary/system/lib64/libtiff.so:system/lib64/libtiff.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libupdate-jni-1.0.1.2002.so:system/lib64/libupdate-jni-1.0.1.2002.so \
     vendor/meizu/m2note/proprietary/system/lib64/libSwJpgCodec.so:system/lib64/libSwJpgCodec.so \
     vendor/meizu/m2note/proprietary/system/lib64/liba3m.so:system/lib64/liba3m.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaal.so:system/lib64/libaal.so \
