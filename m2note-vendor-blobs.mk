@@ -327,7 +327,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmtkbtextspp.so:system/lib/libmtkbtextspp.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtkjpeg.so:system/lib/libmtkjpeg.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmtkplayer.so:system/lib/libmtkplayer.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtkshifter.so:system/lib/libmtkshifter.so \
     vendor/meizu/m2note/proprietary/system/lib/libn3d3a.so:system/lib/libn3d3a.so \
     vendor/meizu/m2note/proprietary/system/lib/libnativecheck-jni.so:system/lib/libnativecheck-jni.so \
@@ -530,7 +529,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmtk_mmutils.so:system/lib64/libmtk_mmutils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmtkjpeg.so:system/lib64/libmtkjpeg.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmtklimiter.so:system/lib64/libmtklimiter.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmtkplayer.so:system/lib64/libmtkplayer.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmtkshifter.so:system/lib64/libmtkshifter.so \
     vendor/meizu/m2note/proprietary/system/lib64/liblogwrap.so:system/lib64/liblogwrap.so \
     vendor/meizu/m2note/proprietary/system/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
