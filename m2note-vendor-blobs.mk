@@ -22,15 +22,8 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
     vendor/meizu/m2note/proprietary/system/bin/aee:system/bin/aee \
     vendor/meizu/m2note/proprietary/system/bin/flymed:system/bin/flymed \
-    vendor/meizu/m2note/proprietary/system/bin/iperf:system/bin/iperf \
     vendor/meizu/m2note/proprietary/system/bin/nmbd:system/bin/nmbd \
     vendor/meizu/m2note/proprietary/system/bin/ntfs-3g:system/bin/ntfs-3g \
-    vendor/meizu/m2note/proprietary/system/bin/pppd_via:system/bin/pppd_via \
-    vendor/meizu/m2note/proprietary/system/bin/pppoe:system/bin/pppoe \
-    vendor/meizu/m2note/proprietary/system/bin/smbd:system/bin/smbd \
-    vendor/meizu/m2note/proprietary/system/bin/smbpasswd:system/bin/smbpasswd \
-    vendor/meizu/m2note/proprietary/system/bin/aee_archive:system/bin/aee_archive \
-    vendor/meizu/m2note/proprietary/system/bin/aee_dumpstate:system/bin/aee_dumpstate \
     vendor/meizu/m2note/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
     vendor/meizu/m2note/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
@@ -193,7 +186,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libimage_dehazing.so:system/lib/libimage_dehazing.so \
     vendor/meizu/m2note/proprietary/system/lib/libjni_gallery_utils.so:system/lib/libjni_gallery_utils.so \
     vendor/meizu/m2note/proprietary/system/lib/libjni_gauss_blur.so:system/lib/libjni_gauss_blur.so \
-    vendor/meizu/m2note/proprietary/system/lib/libkanbox_meizu_gallery_sdk.so:system/lib/libkanbox_meizu_gallery_sdk.so \
     vendor/meizu/m2note/proprietary/system/lib/libmcode_image.so:system/lib/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizu.camera.algo.so:system/lib/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizucamera.so:system/lib/libmeizucamera.so \
