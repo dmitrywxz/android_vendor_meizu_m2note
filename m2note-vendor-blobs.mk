@@ -562,6 +562,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libwifitest.so:system/lib64/libwifitest.so \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
+    vendor/meizu/m2note/proprietary/system/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/mtk-tpd.kl:system/usr/keylayout/mtk-tpd.kl \
     vendor/meizu/m2note/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
