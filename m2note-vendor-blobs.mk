@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
     vendor/meizu/m2note/proprietary/system/bin/aee:system/bin/aee \
     vendor/meizu/m2note/proprietary/system/bin/nmbd:system/bin/nmbd \
-    vendor/meizu/m2note/proprietary/system/bin/ntfs-3g:system/bin/ntfs-3g \
     vendor/meizu/m2note/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
     vendor/meizu/m2note/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
