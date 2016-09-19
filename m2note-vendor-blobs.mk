@@ -372,6 +372,11 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libvp8dec_sa.ca7.so:system/lib/libvp8dec_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp9dec_sa.ca7.so:system/lib/libvp9dec_sa.ca7.so \
+    vendor/meizu/m2note/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
+    vendor/meizu/m2note/proprietary/etc/.tp/thermal.high.conf:system/etc/.tp/thermal.high.conf \
+    vendor/meizu/m2note/proprietary/etc/.tp/thermal.mid.conf:system/etc/.tp/thermal.mid.conf \
+    vendor/meizu/m2note/proprietary/etc/.tp/thermal.low.conf:system/etc/.tp/thermal.low.conf \
+    vendor/meizu/m2note/proprietary/etc/.tp/thermal.off.conf:system/etc/.tp/thermal.off.conf \
     vendor/meizu/m2note/proprietary/system/lib/mtk-ril.so:system/lib/mtk-ril.so \
     vendor/meizu/m2note/proprietary/system/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
     vendor/meizu/m2note/proprietary/system/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
