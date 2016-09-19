@@ -179,6 +179,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libeffects_filters.so:system/lib/libeffects_filters.so \
     vendor/meizu/m2note/proprietary/system/lib/libeffects_mosaic.so:system/lib/libeffects_mosaic.so \
     vendor/meizu/m2note/proprietary/system/lib/libexif_gallery.so:system/lib/libexif_gallery.so \
+    vendor/meizu/m2note/proprietary/system/lib/libextem.so:system/lib/libextem.so \
     vendor/meizu/m2note/proprietary/system/lib/libFace.so:system/lib/libFace.so \
     vendor/meizu/m2note/proprietary/system/lib/libffmpeg_utils.so:system/lib/libffmpeg_utils.so \
     vendor/meizu/m2note/proprietary/system/lib/libimage_codec.so:system/lib/libimage_codec.so \
