@@ -104,6 +104,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/btconfig.xml:system/etc/bluetooth/btconfig.xml \
     vendor/meizu/m2note/proprietary/system/etc/clatd.conf:system/etc/clatd.conf \
     vendor/meizu/m2note/proprietary/system/etc/custom.conf:system/etc/custom.conf \
+    vendor/meizu/m2note/proprietary/system/etc/perfservscntbl.txt:system/etc/perfservscntbl.txt \
     vendor/meizu/m2note/proprietary/system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf:system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf \
     vendor/meizu/m2note/proprietary/system/etc/dhcpcd/dhcpcd-hooks/95-configured:system/etc/dhcpcd/dhcpcd-hooks/95-configured \
     vendor/meizu/m2note/proprietary/system/etc/dhcpcd/dhcpcd-run-hooks:system/etc/dhcpcd/dhcpcd-run-hooks \
