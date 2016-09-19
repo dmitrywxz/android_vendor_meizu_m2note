@@ -214,7 +214,7 @@ key 180   NUMPAD_RIGHT_PAREN
 # key 192   F22
 # key 193   F23
 # key 194   F24
-# key 195 (undefined)
+key 195 POWER
 # key 196 (undefined)
 # key 197 (undefined)
 # key 198 (undefined)
