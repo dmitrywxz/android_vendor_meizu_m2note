@@ -173,13 +173,9 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libavformat.so:system/lib/libavformat.so \
     vendor/meizu/m2note/proprietary/system/lib/libavutil.so:system/lib/libavutil.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
-    vendor/meizu/m2note/proprietary/system/lib/libcfgdevparam.so:system/lib/libcfgdevparam.so \
-    vendor/meizu/m2note/proprietary/system/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
-    vendor/meizu/m2note/proprietary/system/lib/libdlna_jni.so:system/lib/libdlna_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libDominantColors.so:system/lib/libDominantColors.so \
     vendor/meizu/m2note/proprietary/system/lib/libeffects_filters.so:system/lib/libeffects_filters.so \
     vendor/meizu/m2note/proprietary/system/lib/libeffects_mosaic.so:system/lib/libeffects_mosaic.so \
-    vendor/meizu/m2note/proprietary/system/lib/libexif_gallery.so:system/lib/libexif_gallery.so \
     vendor/meizu/m2note/proprietary/system/lib/libextem.so:system/lib/libextem.so \
     vendor/meizu/m2note/proprietary/system/lib/libFace.so:system/lib/libFace.so \
     vendor/meizu/m2note/proprietary/system/lib/libffmpeg_utils.so:system/lib/libffmpeg_utils.so \
@@ -189,7 +185,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libjni_gauss_blur.so:system/lib/libjni_gauss_blur.so \
     vendor/meizu/m2note/proprietary/system/lib/libmcode_image.so:system/lib/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizu.camera.algo.so:system/lib/libmeizu.camera.algo.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmeizucamera.so:system/lib/libmeizucamera.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkVideoSpeedEffect.so:system/lib/libMtkVideoSpeedEffect.so \
     vendor/meizu/m2note/proprietary/system/lib/libmzplayer.so:system/lib/libmzplayer.so \
     vendor/meizu/m2note/proprietary/system/lib/libnative_blur.so:system/lib/libnative_blur.so \
@@ -340,7 +335,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libnvramagentclient.so:system/lib/libnvramagentclient.so \
     vendor/meizu/m2note/proprietary/system/lib/libpalsecurity.so:system/lib/libpalsecurity.so \
     vendor/meizu/m2note/proprietary/system/lib/libpalwlan_mtk.so:system/lib/libpalwlan_mtk.so \
-    vendor/meizu/m2note/proprietary/system/lib/libperfservice.so:system/lib/libperfservice.so \
     vendor/meizu/m2note/proprietary/system/lib/libperfservicenative.so:system/lib/libperfservicenative.so \
     vendor/meizu/m2note/proprietary/system/lib/libpppbtdun.so:system/lib/libpppbtdun.so \
     vendor/meizu/m2note/proprietary/system/lib/libpq_cust.so:system/lib/libpq_cust.so \
@@ -374,11 +368,11 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libvp8dec_sa.ca7.so:system/lib/libvp8dec_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp9dec_sa.ca7.so:system/lib/libvp9dec_sa.ca7.so \
-    vendor/meizu/m2note/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
-    vendor/meizu/m2note/proprietary/etc/.tp/thermal.high.conf:system/etc/.tp/thermal.high.conf \
-    vendor/meizu/m2note/proprietary/etc/.tp/thermal.mid.conf:system/etc/.tp/thermal.mid.conf \
-    vendor/meizu/m2note/proprietary/etc/.tp/thermal.low.conf:system/etc/.tp/thermal.low.conf \
-    vendor/meizu/m2note/proprietary/etc/.tp/thermal.off.conf:system/etc/.tp/thermal.off.conf \
+    vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
+    vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.high.conf:system/etc/.tp/thermal.high.conf \
+    vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.mid.conf:system/etc/.tp/thermal.mid.conf \
+    vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.low.conf:system/etc/.tp/thermal.low.conf \
+    vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.off.conf:system/etc/.tp/thermal.off.conf \
     vendor/meizu/m2note/proprietary/system/lib/mtk-ril.so:system/lib/mtk-ril.so \
     vendor/meizu/m2note/proprietary/system/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
     vendor/meizu/m2note/proprietary/system/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
@@ -406,17 +400,13 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libavformat.so:system/lib64/libavformat.so \
     vendor/meizu/m2note/proprietary/system/lib64/libavutil.so:system/lib64/libavutil.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.common.meizu.so:system/lib64/libcam.common.meizu.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libcfgdevparam.so:system/lib64/libcfgdevparam.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libdlna_jni.so:system/lib64/libdlna_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libDominantColors.so:system/lib64/libDominantColors.so \
     vendor/meizu/m2note/proprietary/system/lib64/libeffects_mosaic.so:system/lib64/libeffects_mosaic.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libexif_gallery.so:system/lib64/libexif_gallery.so \
     vendor/meizu/m2note/proprietary/system/lib64/libFace.so:system/lib64/libFace.so \
     vendor/meizu/m2note/proprietary/system/lib64/libffmpeg_utils.so:system/lib64/libffmpeg_utils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimage_codec.so:system/lib64/libimage_codec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmcode_image.so:system/lib64/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizu.camera.algo.so:system/lib64/libmeizu.camera.algo.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmeizucamera.so:system/lib64/libmeizucamera.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmzplayer.so:system/lib64/libmzplayer.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnative_blur.so:system/lib64/libnative_blur.so \
     vendor/meizu/m2note/proprietary/system/lib64/librender_engine.so:system/lib64/librender_engine.so \
@@ -546,7 +536,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram_platform.so:system/lib64/libnvram_platform.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram_sec.so:system/lib64/libnvram_sec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvramagentclient.so:system/lib64/libnvramagentclient.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libperfservice.so:system/lib64/libperfservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libperfservicenative.so:system/lib64/libperfservicenative.so \
     vendor/meizu/m2note/proprietary/system/lib64/libpppbtdun.so:system/lib64/libpppbtdun.so \
     vendor/meizu/m2note/proprietary/system/lib64/libpq_cust.so:system/lib64/libpq_cust.so \
