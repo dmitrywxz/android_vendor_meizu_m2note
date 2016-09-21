@@ -169,9 +169,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libSwJpgCodec.so:system/lib/libSwJpgCodec.so \
     vendor/meizu/m2note/proprietary/system/lib/liba3m.so:system/lib/liba3m.so \
     vendor/meizu/m2note/proprietary/system/lib/libaudioinfo_jni.so:system/lib/libaudioinfo_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libavcodec.so:system/lib/libavcodec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libavformat.so:system/lib/libavformat.so \
-    vendor/meizu/m2note/proprietary/system/lib/libavutil.so:system/lib/libavutil.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib/libcfgdevparam.so:system/lib/libcfgdevparam.so \
     vendor/meizu/m2note/proprietary/system/lib/libDominantColors.so:system/lib/libDominantColors.so \
@@ -399,9 +396,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libPQDCjni.so:system/lib64/libPQDCjni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libPQjni.so:system/lib64/libPQjni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudioinfo_jni.so:system/lib64/libaudioinfo_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libavcodec.so:system/lib64/libavcodec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libavformat.so:system/lib64/libavformat.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libavutil.so:system/lib64/libavutil.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.common.meizu.so:system/lib64/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcfgdevparam.so:system/lib64/libcfgdevparam.so \
     vendor/meizu/m2note/proprietary/system/lib64/libDominantColors.so:system/lib64/libDominantColors.so \
