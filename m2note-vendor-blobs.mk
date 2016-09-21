@@ -171,16 +171,9 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libaudioinfo_jni.so:system/lib/libaudioinfo_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib/libcfgdevparam.so:system/lib/libcfgdevparam.so \
-    vendor/meizu/m2note/proprietary/system/lib/libDominantColors.so:system/lib/libDominantColors.so \
-    vendor/meizu/m2note/proprietary/system/lib/libeffects_filters.so:system/lib/libeffects_filters.so \
-    vendor/meizu/m2note/proprietary/system/lib/libeffects_mosaic.so:system/lib/libeffects_mosaic.so \
     vendor/meizu/m2note/proprietary/system/lib/libextem.so:system/lib/libextem.so \
-    vendor/meizu/m2note/proprietary/system/lib/libFace.so:system/lib/libFace.so \
-    vendor/meizu/m2note/proprietary/system/lib/libffmpeg_utils.so:system/lib/libffmpeg_utils.so \
     vendor/meizu/m2note/proprietary/system/lib/libimage_codec.so:system/lib/libimage_codec.so \
     vendor/meizu/m2note/proprietary/system/lib/libimage_dehazing.so:system/lib/libimage_dehazing.so \
-    vendor/meizu/m2note/proprietary/system/lib/libjni_gallery_utils.so:system/lib/libjni_gallery_utils.so \
-    vendor/meizu/m2note/proprietary/system/lib/libjni_gauss_blur.so:system/lib/libjni_gauss_blur.so \
     vendor/meizu/m2note/proprietary/system/lib/libmcode_image.so:system/lib/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizu.camera.algo.so:system/lib/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizucamera.so:system/lib/libmeizucamera.so \
@@ -188,20 +181,10 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmzplayer.so:system/lib/libmzplayer.so \
     vendor/meizu/m2note/proprietary/system/lib/libnative_blur.so:system/lib/libnative_blur.so \
     vendor/meizu/m2note/proprietary/system/lib/libphoto_process.so:system/lib/libphoto_process.so \
-    vendor/meizu/m2note/proprietary/system/lib/libRefocusModule.so:system/lib/libRefocusModule.so \
     vendor/meizu/m2note/proprietary/system/lib/librender_engine.so:system/lib/librender_engine.so \
-    vendor/meizu/m2note/proprietary/system/lib/libRSSupport.so:system/lib/libRSSupport.so \
     vendor/meizu/m2note/proprietary/system/lib/libsfb.so:system/lib/libsfb.so \
     vendor/meizu/m2note/proprietary/system/lib/libskia_hw_interface.so:system/lib/libskia_hw_interface.so \
     vendor/meizu/m2note/proprietary/system/lib/libskia_private.so:system/lib/libskia_private.so \
-    vendor/meizu/m2note/proprietary/system/lib/libstagefright_mzhttplive.so:system/lib/libstagefright_mzhttplive.so \
-    vendor/meizu/m2note/proprietary/system/lib/libstagefright_mzmpeg2ts.so:system/lib/libstagefright_mzmpeg2ts.so \
-    vendor/meizu/m2note/proprietary/system/lib/libstagefright_soft_ffmpegadec.so:system/lib/libstagefright_soft_ffmpegadec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libstagefright_soft_ffmpegvdec.so:system/lib/libstagefright_soft_ffmpegvdec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libswresample.so:system/lib/libswresample.so \
-    vendor/meizu/m2note/proprietary/system/lib/libswscale.so:system/lib/libswscale.so \
-    vendor/meizu/m2note/proprietary/system/lib/libtaglib.so:system/lib/libtaglib.so \
-    vendor/meizu/m2note/proprietary/system/lib/libtiff.so:system/lib/libtiff.so \
     vendor/meizu/m2note/proprietary/system/lib/libaal.so:system/lib/libaal.so \
     vendor/meizu/m2note/proprietary/system/lib/libacdk.so:system/lib/libacdk.so \
     vendor/meizu/m2note/proprietary/system/lib/libadpcm.so:system/lib/libadpcm.so \
@@ -398,10 +381,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libaudioinfo_jni.so:system/lib64/libaudioinfo_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.common.meizu.so:system/lib64/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcfgdevparam.so:system/lib64/libcfgdevparam.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libDominantColors.so:system/lib64/libDominantColors.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libeffects_mosaic.so:system/lib64/libeffects_mosaic.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libFace.so:system/lib64/libFace.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libffmpeg_utils.so:system/lib64/libffmpeg_utils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimage_codec.so:system/lib64/libimage_codec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmcode_image.so:system/lib64/libmcode_image.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizu.camera.algo.so:system/lib64/libmeizu.camera.algo.so \
@@ -411,14 +390,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/librender_engine.so:system/lib64/librender_engine.so \
     vendor/meizu/m2note/proprietary/system/lib64/libsfb.so:system/lib64/libsfb.so \
     vendor/meizu/m2note/proprietary/system/lib64/libskia_hw_interface.so:system/lib64/libskia_hw_interface.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libstagefright_mzhttplive.so:system/lib64/libstagefright_mzhttplive.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libstagefright_mzmpeg2ts.so:system/lib64/libstagefright_mzmpeg2ts.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libstagefright_soft_ffmpegadec.so:system/lib64/libstagefright_soft_ffmpegadec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libstagefright_soft_ffmpegvdec.so:system/lib64/libstagefright_soft_ffmpegvdec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libswresample.so:system/lib64/libswresample.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libswscale.so:system/lib64/libswscale.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libtaglib.so:system/lib64/libtaglib.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libtiff.so:system/lib64/libtiff.so \
     vendor/meizu/m2note/proprietary/system/lib64/libSwJpgCodec.so:system/lib64/libSwJpgCodec.so \
     vendor/meizu/m2note/proprietary/system/lib64/liba3m.so:system/lib64/liba3m.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaal.so:system/lib64/libaal.so \
