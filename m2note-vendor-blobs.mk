@@ -174,8 +174,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmeizu.camera.algo.so:system/lib/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizucamera.so:system/lib/libmeizucamera.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkVideoSpeedEffect.so:system/lib/libMtkVideoSpeedEffect.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmzplayer.so:system/lib/libmzplayer.so \
-    vendor/meizu/m2note/proprietary/system/lib/libnative_blur.so:system/lib/libnative_blur.so \
     vendor/meizu/m2note/proprietary/system/lib/librender_engine.so:system/lib/librender_engine.so \
     vendor/meizu/m2note/proprietary/system/lib/libsfb.so:system/lib/libsfb.so \
     vendor/meizu/m2note/proprietary/system/lib/libaal.so:system/lib/libaal.so \
@@ -375,8 +373,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libcfgdevparam.so:system/lib64/libcfgdevparam.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizu.camera.algo.so:system/lib64/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizucamera.so:system/lib64/libmeizucamera.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmzplayer.so:system/lib64/libmzplayer.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libnative_blur.so:system/lib64/libnative_blur.so \
     vendor/meizu/m2note/proprietary/system/lib64/librender_engine.so:system/lib64/librender_engine.so \
     vendor/meizu/m2note/proprietary/system/lib64/libsfb.so:system/lib64/libsfb.so \
     vendor/meizu/m2note/proprietary/system/lib64/libSwJpgCodec.so:system/lib64/libSwJpgCodec.so \
