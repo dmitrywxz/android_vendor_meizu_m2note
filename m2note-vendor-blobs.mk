@@ -356,7 +356,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/lights.default.so:system/lib64/hw/lights.default.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/hwcomposer.mt6753.so:system/lib64/hw/hwcomposer.mt6753.so \
-    vendor/meizu/m2note/proprietary/system/lib64/hw/memtrack.mt6753.so:system/lib64/hw/memtrack.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/mmsdk.default.so:system/lib64/hw/mmsdk.default.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/sensors.mt6753.so:system/lib64/hw/sensors.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/lib3a.so:system/lib64/lib3a.so \
