@@ -327,7 +327,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/meizu/m2note/proprietary/system/lib/libtouchfilter.so:system/lib/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib/libudf.so:system/lib/libudf.so \
-    vendor/meizu/m2note/proprietary/system/lib/libui.so:system/lib/libui.so \
     vendor/meizu/m2note/proprietary/system/lib/libui_ext.so:system/lib/libui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib/libvc1dec_sa.ca7.so:system/lib/libvc1dec_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
@@ -504,7 +503,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/meizu/m2note/proprietary/system/lib64/libtouchfilter.so:system/lib64/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib64/libudf.so:system/lib64/libudf.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libui.so:system/lib64/libui.so \
     vendor/meizu/m2note/proprietary/system/lib64/libui_ext.so:system/lib64/libui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib64/libvcodecdrv.so:system/lib64/libvcodecdrv.so \
     vendor/meizu/m2note/proprietary/system/lib64/libwapi.so:system/lib64/libwapi.so \
