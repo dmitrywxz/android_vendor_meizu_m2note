@@ -526,6 +526,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so \
     vendor/meizu/m2note/proprietary/system/xbin/BGW:system/xbin/BGW \
+    vendor/meizu/m2note/proprietary/system/xbin/mknod:system/xbin/mknod \
     vendor/meizu/m2note/proprietary/system/xbin/mnld:system/xbin/mnld \
     vendor/meizu/m2note/proprietary/system/lib/libcam.device3.so:system/lib/libcam.device3.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.hal3a.v3.so:system/lib/libcam.hal3a.v3.so \
