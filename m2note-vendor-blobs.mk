@@ -51,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/kpoc_charger:system/bin/kpoc_charger \
     vendor/meizu/m2note/proprietary/system/bin/lsm303md:system/bin/lsm303md \
     vendor/meizu/m2note/proprietary/system/bin/magd:system/bin/magd \
-    vendor/meizu/m2note/proprietary/system/bin/make_ext4fs:system/bin/make_ext4fs \
     vendor/meizu/m2note/proprietary/system/bin/matv:system/bin/matv \
     vendor/meizu/m2note/proprietary/system/bin/mc6420d:system/bin/mc6420d \
     vendor/meizu/m2note/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
