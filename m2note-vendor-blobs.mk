@@ -130,6 +130,10 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/drm/libdrmmtkplugin.so:system/lib/drm/libdrmmtkplugin.so \
     vendor/meizu/m2note/proprietary/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/meizu/m2note/proprietary/system/lib/hw/audio.primary.mt6753.so:system/lib/hw/audio.primary.mt6753.so \
+    vendor/meizu/m2note/proprietary/system/lib/libmal.so:system/lib/libmal.so \
+    vendor/meizu/m2note/proprietary/system/lib/libmdfx.so:system/lib/libmdfx.so \
+    vendor/meizu/m2note/proprietary/system/lib64/libmal.so:system/lib64/libmal.so \
+    vendor/meizu/m2note/proprietary/system/lib64/libmdfx.so:system/lib64/libmdfx.so \
     vendor/meizu/m2note/proprietary/system/lib/libmmsdkservice.feature_platform.so:system/lib/libmmsdkservice.feature_platform.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmmsdkservice.feature_platform.so:system/lib64/libmmsdkservice.feature_platform.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/camera.mt6753.so:system/lib/hw/camera.mt6753.so \
