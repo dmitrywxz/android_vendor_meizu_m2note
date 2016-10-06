@@ -178,7 +178,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libMtkVideoSpeedEffect.so:system/lib/libMtkVideoSpeedEffect.so \
     vendor/meizu/m2note/proprietary/system/lib/librender_engine.so:system/lib/librender_engine.so \
     vendor/meizu/m2note/proprietary/system/lib/libsfb.so:system/lib/libsfb.so \
-    vendor/meizu/m2note/proprietary/system/lib/libstlport.so:system/lib/libstlport.so \
     vendor/meizu/m2note/proprietary/system/lib/libaal.so:system/lib/libaal.so \
     vendor/meizu/m2note/proprietary/system/lib/libacdk.so:system/lib/libacdk.so \
     vendor/meizu/m2note/proprietary/system/lib/libadpcm.so:system/lib/libadpcm.so \
@@ -375,7 +374,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizucamera.so:system/lib64/libmeizucamera.so \
     vendor/meizu/m2note/proprietary/system/lib64/librender_engine.so:system/lib64/librender_engine.so \
     vendor/meizu/m2note/proprietary/system/lib64/libsfb.so:system/lib64/libsfb.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libstlport.so:system/lib64/libstlport.so \
     vendor/meizu/m2note/proprietary/system/lib64/libSwJpgCodec.so:system/lib64/libSwJpgCodec.so \
     vendor/meizu/m2note/proprietary/system/lib64/liba3m.so:system/lib64/liba3m.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaal.so:system/lib64/libaal.so \
