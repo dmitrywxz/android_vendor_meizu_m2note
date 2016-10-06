@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/AcdApiDaemon:system/bin/AcdApiDaemon \
     vendor/meizu/m2note/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
     vendor/meizu/m2note/proprietary/system/bin/aee:system/bin/aee \
-    vendor/meizu/m2note/proprietary/system/bin/nmbd:system/bin/nmbd \
     vendor/meizu/m2note/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
     vendor/meizu/m2note/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
@@ -67,7 +66,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/mtkrild:system/bin/mtkrild \
     vendor/meizu/m2note/proprietary/system/bin/mtkrildmd2:system/bin/mtkrildmd2 \
     vendor/meizu/m2note/proprietary/system/bin/muxreport:system/bin/muxreport \
-    vendor/meizu/m2note/proprietary/system/bin/netcfg:system/bin/netcfg \
     vendor/meizu/m2note/proprietary/system/bin/netdiag:system/bin/netdiag \
     vendor/meizu/m2note/proprietary/system/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/meizu/m2note/proprietary/system/bin/nvram_daemon:system/bin/nvram_daemon \
@@ -82,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/racoon:system/bin/racoon \
     vendor/meizu/m2note/proprietary/system/bin/radvd:system/bin/radvd \
     vendor/meizu/m2note/proprietary/system/bin/rtt:system/bin/rtt \
-    vendor/meizu/m2note/proprietary/system/bin/run-as:system/bin/run-as \
     vendor/meizu/m2note/proprietary/system/bin/s62xd:system/bin/s62xd \
     vendor/meizu/m2note/proprietary/system/bin/terservice:system/bin/terservice \
     vendor/meizu/m2note/proprietary/system/bin/tertestclient:system/bin/tertestclient \
@@ -556,7 +553,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmtksqlite3_custom.so:system/lib64/libmtksqlite3_custom.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmtksqlite3_android.so:system/lib64/libmtksqlite3_android.so \
     vendor/meizu/m2note/proprietary/system/bin/akmd09911:system/bin/akmd09911 \
-    vendor/meizu/m2note/proprietary/system/bin/program_binary_service:system/bin/program_binary_service \
     vendor/meizu/m2note/proprietary/system/lib/libcam.hal3a.v3.dng.so:system/lib/libcam.hal3a.v3.dng.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.hal3a.v3.dng.so:system/lib64/libcam.hal3a.v3.dng.so \
     vendor/meizu/m2note/proprietary/system/lib/libmmsdkservice.feature.so:system/lib/libmmsdkservice.feature.so \
