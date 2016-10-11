@@ -332,8 +332,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/meizu/m2note/proprietary/system/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
     vendor/meizu/m2note/proprietary/system/lib/libvie.so:system/lib/libvie.so \
-    vendor/meizu/m2note/proprietary/system/lib/libtinycompress.so:system/lib/libtinycompress.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
     vendor/meizu/m2note/proprietary/system/lib/libvie_jni.so:system/lib/libvie_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libvoicerecognition.so:system/lib/libvoicerecognition.so \
     vendor/meizu/m2note/proprietary/system/lib/libvoicerecognition_jni.so:system/lib/libvoicerecognition_jni.so \
