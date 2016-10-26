@@ -324,7 +324,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib/libtimestretch.so:system/lib/libtimestretch.so \
     vendor/meizu/m2note/proprietary/system/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
-    vendor/meizu/m2note/proprietary/system/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/meizu/m2note/proprietary/system/lib/libtouchfilter.so:system/lib/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib/libudf.so:system/lib/libudf.so \
     vendor/meizu/m2note/proprietary/system/lib/libui_ext.so:system/lib/libui_ext.so \
@@ -498,7 +497,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libstagefrighthw.so:system/lib64/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib64/libsysutils.so:system/lib64/libsysutils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libterservice.so:system/lib64/libterservice.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/meizu/m2note/proprietary/system/lib64/libtouchfilter.so:system/lib64/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib64/libudf.so:system/lib64/libudf.so \
     vendor/meizu/m2note/proprietary/system/lib64/libui_ext.so:system/lib64/libui_ext.so \
