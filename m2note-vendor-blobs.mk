@@ -381,8 +381,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiocomponentengine.so:system/lib64/libaudiocomponentengine.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiodcrflt.so:system/lib64/libaudiodcrflt.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libaudiopolicymanager.so:system/lib64/libaudiopolicymanager.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libaudiopolicymanagerdefault.so:system/lib64/libaudiopolicymanagerdefault.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiosetting.so:system/lib64/libaudiosetting.so \
     vendor/meizu/m2note/proprietary/system/lib64/libbessound_hd_mtk.so:system/lib64/libbessound_hd_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib64/libblisrc.so:system/lib64/libblisrc.so \
