@@ -85,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/meizu/m2note/proprietary/system/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/meizu/m2note/proprietary/system/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
-    vendor/meizu/m2note/proprietary/system/lib/drm/libdrmmtkplugin.so:system/lib/drm/libdrmmtkplugin.so \
     vendor/meizu/m2note/proprietary/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/meizu/m2note/proprietary/system/lib/hw/audio.primary.mt6753.so:system/lib/hw/audio.primary.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib/libmal.so:system/lib/libmal.so \
@@ -198,8 +197,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libdcfdecoderjni.so:system/lib/libdcfdecoderjni.so \
     vendor/meizu/m2note/proprietary/system/lib/libdirect-coredump.so:system/lib/libdirect-coredump.so \
     vendor/meizu/m2note/proprietary/system/lib/libdpframework.so:system/lib/libdpframework.so \
-    vendor/meizu/m2note/proprietary/system/lib/libdrmmtkutil.so:system/lib/libdrmmtkutil.so \
-    vendor/meizu/m2note/proprietary/system/lib/libdrmmtkwhitelist.so:system/lib/libdrmmtkwhitelist.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_support_jni.so:system/lib/libem_support_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libextsys.so:system/lib/libextsys.so \
     vendor/meizu/m2note/proprietary/system/lib/libextsys_jni.so:system/lib/libextsys_jni.so \
@@ -308,7 +305,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libJpgEncPipe.so:system/lib64/libJpgEncPipe.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxCore.so:system/lib64/libMtkOmxCore.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkVideoTranscoder.so:system/lib64/libMtkVideoTranscoder.so \
-    vendor/meizu/m2note/proprietary/system/lib/drm/libdrmctaplugin.so:system/lib/drm/libdrmctaplugin.so \
     vendor/meizu/m2note/proprietary/system/lib64/libPQDCjni.so:system/lib64/libPQDCjni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libPQjni.so:system/lib64/libPQjni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.common.meizu.so:system/lib64/libcam.common.meizu.so \
@@ -372,8 +368,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libdcfdecoderjni.so:system/lib64/libdcfdecoderjni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdirect-coredump.so:system/lib64/libdirect-coredump.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdpframework.so:system/lib64/libdpframework.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libdrmmtkutil.so:system/lib64/libdrmmtkutil.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libdrmmtkwhitelist.so:system/lib64/libdrmmtkwhitelist.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_support_jni.so:system/lib64/libem_support_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextadvanced_jni.so:system/lib64/libextadvanced_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextem.so:system/lib64/libextem.so \
@@ -442,16 +436,20 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/mtk-tpd.kl:system/usr/keylayout/mtk-tpd.kl \
-    vendor/meizu/m2note/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib/drm/libdrmctaplugin.so:system/vendor/lib/drm/libdrmctaplugin.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib/drm/libdrmmtkplugin.so:system/vendor/lib/drm/libdrmmtkplugin.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib/libdrmmtkutil.so:system/vendor/lib/libdrmmtkutil.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib/libdrmmtkwhitelist.so:system/vendor/lib/libdrmmtkwhitelist.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib64/drm/libdrmctaplugin.so:system/vendor/lib64/drm/libdrmctaplugin.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib64/drm/libdrmmtkplugin.so:system/vendor/lib64/drm/libdrmmtkplugin.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib64/libdrmmtkutil.so:system/vendor/lib64/libdrmmtkutil.so \
+    vendor/meizu/m2note/proprietary/system/vendor/lib64/libdrmmtkwhitelist.so:system/vendor/lib64/libdrmmtkwhitelist.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/meizu/m2note/proprietary/system/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/meizu/m2note/proprietary/system/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/gralloc.mt6753.so:system/lib/hw/gralloc.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/gralloc.mt6753.so:system/lib64/hw/gralloc.mt6753.so \
-    vendor/meizu/m2note/proprietary/system/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
-    vendor/meizu/m2note/proprietary/system/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
-    vendor/meizu/m2note/proprietary/system/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so \
