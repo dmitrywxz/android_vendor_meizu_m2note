@@ -113,10 +113,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
-    vendor/meizu/m2note/proprietary/system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_1_ltg_n:system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_1_ltg_n \
-    vendor/meizu/m2note/proprietary/system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_1_lwg_n:etc/system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_1_lwg_n \
-    vendor/meizu/m2note/proprietary/system/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.CMCC.MP_MEIZU6753_65C_L1_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_2016_06_12_17_29_1_ltg_n:system/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.CMCC.MP_MEIZU6753_65C_L1_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_2016_06_12_17_29_1_ltg_n \
-    vendor/meizu/m2note/proprietary/system/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.CMCC.MP_MEIZU6753_65C_L1_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_2016_06_12_17_41_1_lwg_n:system/etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.CMCC.MP_MEIZU6753_65C_L1_MOLY_LR9_W1444_MD_LWTG_CMCC_MP_V9_P42_2016_06_12_17_41_1_lwg_n \
     vendor/meizu/m2note/proprietary/system/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
     vendor/meizu/m2note/proprietary/system/etc/mtklog-config.prop:system/etc/mtklog-config.prop \
     vendor/meizu/m2note/proprietary/system/etc/radvd/radvd.conf:system/etc/radvd/radvd.conf \
