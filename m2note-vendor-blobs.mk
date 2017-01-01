@@ -91,16 +91,13 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmdfx.so:system/lib/libmdfx.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmal.so:system/lib64/libmal.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmdfx.so:system/lib64/libmdfx.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmmsdkservice.feature_platform.so:system/lib/libmmsdkservice.feature_platform.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmmsdkservice.feature_platform.so:system/lib64/libmmsdkservice.feature_platform.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/camera.mt6753.so:system/lib/hw/camera.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/hwcomposer.mt6753.so:system/lib/hw/hwcomposer.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/memtrack.mt6753.so:system/lib/hw/memtrack.mt6753.so \
-    vendor/meizu/m2note/proprietary/system/lib/hw/mmsdk.default.so:system/lib/hw/mmsdk.default.so \
     vendor/meizu/m2note/proprietary/system/lib/lib3a.so:system/lib/lib3a.so \
     vendor/meizu/m2note/proprietary/system/lib/lib3a_sample.so:system/lib/lib3a_sample.so \
-    vendor/meizu/m2note/proprietary/system/lib/libAGifEncoder.so:system/lib/libAGifEncoder.so \
     vendor/meizu/m2note/proprietary/system/lib/libBnMtkCodec.so:system/lib/libBnMtkCodec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libBnMtkCodec.so:system/lib64/libBnMtkCodec.so \
     vendor/meizu/m2note/proprietary/system/lib/libGdmaScalerPipe.so:system/lib/libGdmaScalerPipe.so \
@@ -296,7 +293,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/hw/lights.default.so:system/lib64/hw/lights.default.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/hwcomposer.mt6753.so:system/lib64/hw/hwcomposer.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/memtrack.mt6753.so:system/lib64/hw/memtrack.mt6753.so \
-    vendor/meizu/m2note/proprietary/system/lib64/hw/mmsdk.default.so:system/lib64/hw/mmsdk.default.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/sensors.mt6753.so:system/lib64/hw/sensors.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/lib3a.so:system/lib64/lib3a.so \
     vendor/meizu/m2note/proprietary/system/lib64/lib3a_sample.so:system/lib64/lib3a_sample.so \
