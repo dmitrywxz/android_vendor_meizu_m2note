@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/mtkrild:system/bin/mtkrild \
     vendor/meizu/m2note/proprietary/system/bin/mtkrildmd2:system/bin/mtkrildmd2 \
     vendor/meizu/m2note/proprietary/system/bin/muxreport:system/bin/muxreport \
-    vendor/meizu/m2note/proprietary/system/bin/netdiag:system/bin/netdiag \
     vendor/meizu/m2note/proprietary/system/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/meizu/m2note/proprietary/system/bin/nvram_daemon:system/bin/nvram_daemon \
     vendor/meizu/m2note/proprietary/system/bin/orientationd:system/bin/orientationd \
