@@ -89,7 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/tiny_swapon:system/bin/tiny_swapon \
     vendor/meizu/m2note/proprietary/system/bin/wifi2agps:system/bin/wifi2agps \
     vendor/meizu/m2note/proprietary/system/bin/wmt_loader:system/bin/wmt_loader \
-    vendor/meizu/m2note/proprietary/system/bin/xlog:system/bin/xlog \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
@@ -268,7 +267,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libm4u.so:system/lib/libm4u.so \
     vendor/meizu/m2note/proprietary/system/lib/libmatv_cust.so:system/lib/libmatv_cust.so \
     vendor/meizu/m2note/proprietary/system/lib/libmdloggerrecycle.so:system/lib/libmdloggerrecycle.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmediatek_exceptionlog.so:system/lib/libmediatek_exceptionlog.so \
     vendor/meizu/m2note/proprietary/system/lib/libmemoryDumpEncoder.so:system/lib/libmemoryDumpEncoder.so \
     vendor/meizu/m2note/proprietary/system/lib/libmemorydumper.so:system/lib/libmemorydumper.so \
     vendor/meizu/m2note/proprietary/system/lib/libmhalImageCodec.so:system/lib/libmhalImageCodec.so \
@@ -452,7 +450,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libm4u.so:system/lib64/libm4u.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmatv_cust.so:system/lib64/libmatv_cust.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmdloggerrecycle.so:system/lib64/libmdloggerrecycle.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmediatek_exceptionlog.so:system/lib64/libmediatek_exceptionlog.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmemoryDumpEncoder.so:system/lib64/libmemoryDumpEncoder.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmemorydumper.so:system/lib64/libmemorydumper.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmhalImageCodec.so:system/lib64/libmhalImageCodec.so \
