@@ -225,7 +225,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/meizu/m2note/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/meizu/m2note/proprietary/system/lib/libccci_util.so:system/lib/libccci_util.so \
-    vendor/meizu/m2note/proprietary/system/lib/libcurl.so:system/lib/libcurl.so \
     vendor/meizu/m2note/proprietary/system/lib/libcustom_jni.so:system/lib/libcustom_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
     vendor/meizu/m2note/proprietary/system/lib/libcustom_prop.so:system/lib/libcustom_prop.so \
@@ -413,7 +412,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
     vendor/meizu/m2note/proprietary/system/lib64/libccci_util.so:system/lib64/libccci_util.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libcurl.so:system/lib64/libcurl.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcustom_jni.so:system/lib64/libcustom_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcustom_nvram.so:system/lib64/libcustom_nvram.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcustom_prop.so:system/lib64/libcustom_prop.so \
