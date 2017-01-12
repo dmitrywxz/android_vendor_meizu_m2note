@@ -20,8 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/6620_wmt_lpbk:system/bin/6620_wmt_lpbk \
     vendor/meizu/m2note/proprietary/system/bin/AcdApiDaemon:system/bin/AcdApiDaemon \
     vendor/meizu/m2note/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
-    vendor/meizu/m2note/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
-    vendor/meizu/m2note/proprietary/system/bin/akmd8975:system/bin/akmd8975 \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
     vendor/meizu/m2note/proprietary/system/bin/atci_service:system/bin/atci_service \
     vendor/meizu/m2note/proprietary/system/bin/atcid:system/bin/atcid \
@@ -227,7 +225,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libem_gpio_jni.so:system/lib/libem_gpio_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_lte_jni.so:system/lib/libem_lte_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_modem_jni.so:system/lib/libem_modem_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_sensor_jni.so:system/lib/libem_sensor_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_support_jni.so:system/lib/libem_support_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_usb_jni.so:system/lib/libem_usb_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_wifi_jni.so:system/lib/libem_wifi_jni.so \
@@ -412,7 +409,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libem_gpio_jni.so:system/lib64/libem_gpio_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_lte_jni.so:system/lib64/libem_lte_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_modem_jni.so:system/lib64/libem_modem_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_sensor_jni.so:system/lib64/libem_sensor_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_support_jni.so:system/lib64/libem_support_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_usb_jni.so:system/lib64/libem_usb_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_wifi_jni.so:system/lib64/libem_wifi_jni.so \
