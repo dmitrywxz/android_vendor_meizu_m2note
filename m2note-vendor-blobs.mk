@@ -34,9 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/btlogmask:system/bin/btlogmask \
     vendor/meizu/m2note/proprietary/system/bin/ccci_fsd:system/bin/ccci_fsd \
     vendor/meizu/m2note/proprietary/system/bin/ccci_mdinit:system/bin/ccci_mdinit \
-    vendor/meizu/m2note/proprietary/system/bin/dhcp6c:system/bin/dhcp6c \
-    vendor/meizu/m2note/proprietary/system/bin/dhcp6ctl:system/bin/dhcp6ctl \
-    vendor/meizu/m2note/proprietary/system/bin/dhcp6s:system/bin/dhcp6s \
     vendor/meizu/m2note/proprietary/system/bin/em_svr:system/bin/em_svr \
     vendor/meizu/m2note/proprietary/system/bin/fsck_msdos_mtk:system/bin/fsck_msdos_mtk \
     vendor/meizu/m2note/proprietary/system/bin/fuelgauged:system/bin/fuelgauged \
@@ -69,11 +66,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/perf_native_test:system/bin/perf_native_test \
     vendor/meizu/m2note/proprietary/system/bin/permission_check:system/bin/permission_check \
     vendor/meizu/m2note/proprietary/system/bin/ppl_agent:system/bin/ppl_agent \
-    vendor/meizu/m2note/proprietary/system/bin/pppd:system/bin/pppd \
-    vendor/meizu/m2note/proprietary/system/bin/pppd_btdun:system/bin/pppd_btdun \
-    vendor/meizu/m2note/proprietary/system/bin/pppd_dt:system/bin/pppd_dt \
     vendor/meizu/m2note/proprietary/system/bin/pq:system/bin/pq \
-    vendor/meizu/m2note/proprietary/system/bin/racoon:system/bin/racoon \
     vendor/meizu/m2note/proprietary/system/bin/radvd:system/bin/radvd \
     vendor/meizu/m2note/proprietary/system/bin/rtt:system/bin/rtt \
     vendor/meizu/m2note/proprietary/system/bin/s62xd:system/bin/s62xd \
