@@ -16,10 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/6620_launcher:system/bin/6620_launcher \
-    vendor/meizu/m2note/proprietary/system/bin/6620_wmt_concurrency:system/bin/6620_wmt_concurrency \
-    vendor/meizu/m2note/proprietary/system/bin/6620_wmt_lpbk:system/bin/6620_wmt_lpbk \
     vendor/meizu/m2note/proprietary/system/bin/AcdApiDaemon:system/bin/AcdApiDaemon \
-    vendor/meizu/m2note/proprietary/system/bin/MtkCodecService:system/bin/MtkCodecService \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
     vendor/meizu/m2note/proprietary/system/bin/atci_service:system/bin/atci_service \
     vendor/meizu/m2note/proprietary/system/bin/atcid:system/bin/atcid \
@@ -38,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/meizu/m2note/proprietary/system/bin/gsm0710muxd:system/bin/gsm0710muxd \
     vendor/meizu/m2note/proprietary/system/bin/gsm0710muxdmd2:system/bin/gsm0710muxdmd2 \
-    vendor/meizu/m2note/proprietary/system/bin/guiext-server:system/bin/guiext-server \
     vendor/meizu/m2note/proprietary/system/bin/kpoc_charger:system/bin/kpoc_charger \
     vendor/meizu/m2note/proprietary/system/bin/lsm303md:system/bin/lsm303md \
     vendor/meizu/m2note/proprietary/system/bin/magd:system/bin/magd \
@@ -54,25 +50,19 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/msensord:system/bin/msensord \
     vendor/meizu/m2note/proprietary/system/bin/mtk_agpsd:system/bin/mtk_agpsd \
     vendor/meizu/m2note/proprietary/system/bin/mtk_setprop:system/bin/mtk_setprop \
-    vendor/meizu/m2note/proprietary/system/bin/mtkbt:system/bin/mtkbt \
     vendor/meizu/m2note/proprietary/system/bin/mtkrild:system/bin/mtkrild \
     vendor/meizu/m2note/proprietary/system/bin/mtkrildmd2:system/bin/mtkrildmd2 \
     vendor/meizu/m2note/proprietary/system/bin/muxreport:system/bin/muxreport \
     vendor/meizu/m2note/proprietary/system/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/meizu/m2note/proprietary/system/bin/nvram_daemon:system/bin/nvram_daemon \
     vendor/meizu/m2note/proprietary/system/bin/orientationd:system/bin/orientationd \
-    vendor/meizu/m2note/proprietary/system/bin/perf_native_test:system/bin/perf_native_test \
     vendor/meizu/m2note/proprietary/system/bin/permission_check:system/bin/permission_check \
     vendor/meizu/m2note/proprietary/system/bin/ppl_agent:system/bin/ppl_agent \
     vendor/meizu/m2note/proprietary/system/bin/pq:system/bin/pq \
-    vendor/meizu/m2note/proprietary/system/bin/radvd:system/bin/radvd \
     vendor/meizu/m2note/proprietary/system/bin/rtt:system/bin/rtt \
     vendor/meizu/m2note/proprietary/system/bin/s62xd:system/bin/s62xd \
     vendor/meizu/m2note/proprietary/system/bin/terservice:system/bin/terservice \
-    vendor/meizu/m2note/proprietary/system/bin/tertestclient:system/bin/tertestclient \
-    vendor/meizu/m2note/proprietary/system/bin/thermal:system/bin/thermal \
     vendor/meizu/m2note/proprietary/system/bin/thermal_manager:system/bin/thermal_manager \
-    vendor/meizu/m2note/proprietary/system/bin/thermald:system/bin/thermald \
     vendor/meizu/m2note/proprietary/system/bin/tiny_mkswap:system/bin/tiny_mkswap \
     vendor/meizu/m2note/proprietary/system/bin/tiny_swapoff:system/bin/tiny_swapoff \
     vendor/meizu/m2note/proprietary/system/bin/tiny_swapon:system/bin/tiny_swapon \
@@ -221,13 +211,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libdpframework.so:system/lib/libdpframework.so \
     vendor/meizu/m2note/proprietary/system/lib/libdrmmtkutil.so:system/lib/libdrmmtkutil.so \
     vendor/meizu/m2note/proprietary/system/lib/libdrmmtkwhitelist.so:system/lib/libdrmmtkwhitelist.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_bt_jni.so:system/lib/libem_bt_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_gpio_jni.so:system/lib/libem_gpio_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_lte_jni.so:system/lib/libem_lte_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_modem_jni.so:system/lib/libem_modem_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_support_jni.so:system/lib/libem_support_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_usb_jni.so:system/lib/libem_usb_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libem_wifi_jni.so:system/lib/libem_wifi_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libextsys.so:system/lib/libextsys.so \
     vendor/meizu/m2note/proprietary/system/lib/libextsys_jni.so:system/lib/libextsys_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libexttestmode.so:system/lib/libexttestmode.so \
@@ -301,7 +285,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libssladp.so:system/lib/libssladp.so \
     vendor/meizu/m2note/proprietary/system/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib/libtimestretch.so:system/lib/libtimestretch.so \
-    vendor/meizu/m2note/proprietary/system/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/meizu/m2note/proprietary/system/lib/libtouchfilter.so:system/lib/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib/libudf.so:system/lib/libudf.so \
     vendor/meizu/m2note/proprietary/system/lib/libui_ext.so:system/lib/libui_ext.so \
@@ -405,13 +388,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libdpframework.so:system/lib64/libdpframework.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdrmmtkutil.so:system/lib64/libdrmmtkutil.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdrmmtkwhitelist.so:system/lib64/libdrmmtkwhitelist.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_bt_jni.so:system/lib64/libem_bt_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_gpio_jni.so:system/lib64/libem_gpio_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_lte_jni.so:system/lib64/libem_lte_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_modem_jni.so:system/lib64/libem_modem_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_support_jni.so:system/lib64/libem_support_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_usb_jni.so:system/lib64/libem_usb_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libem_wifi_jni.so:system/lib64/libem_wifi_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextadvanced_jni.so:system/lib64/libextadvanced_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextem.so:system/lib64/libextem.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextsys.so:system/lib64/libextsys.so \
