@@ -70,6 +70,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/wmt_loader:system/bin/wmt_loader \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
+    vendor/meizu/m2note/proprietary/system/etc/bluetooth/iot_devlist.conf:system/etc/bluetooth/iot_devlist.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/ble_stack.conf:system/etc/bluetooth/ble_stack.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
