@@ -184,7 +184,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libhwm.so:system/lib/libhwm.so \
     vendor/meizu/m2note/proprietary/system/lib/libimageio.so:system/lib/libimageio.so \
     vendor/meizu/m2note/proprietary/system/lib/libimageio_plat_drv.so:system/lib/libimageio_plat_drv.so \
-    vendor/meizu/m2note/proprietary/system/lib/libion.so:system/lib/libion.so \
     vendor/meizu/m2note/proprietary/system/lib/libion_mtk.so:system/lib/libion_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib/libjtranscode.so:system/lib/libjtranscode.so \
     vendor/meizu/m2note/proprietary/system/lib/libm.so:system/lib/libm.so \
@@ -329,7 +328,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libhwm.so:system/lib64/libhwm.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimageio.so:system/lib64/libimageio.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimageio_plat_drv.so:system/lib64/libimageio_plat_drv.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libion.so:system/lib64/libion.so \
     vendor/meizu/m2note/proprietary/system/lib64/libion_mtk.so:system/lib64/libion_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib64/libm4u.so:system/lib64/libm4u.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmatv_cust.so:system/lib64/libmatv_cust.so \
