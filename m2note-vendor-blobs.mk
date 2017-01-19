@@ -16,11 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/6620_launcher:system/bin/6620_launcher \
-    vendor/meizu/m2note/proprietary/system/bin/AcdApiDaemon:system/bin/AcdApiDaemon \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
-    vendor/meizu/m2note/proprietary/system/bin/atci_service:system/bin/atci_service \
-    vendor/meizu/m2note/proprietary/system/bin/atcid:system/bin/atcid \
-    vendor/meizu/m2note/proprietary/system/bin/audiocmdservice_atci:system/bin/audiocmdservice_atci \
     vendor/meizu/m2note/proprietary/system/bin/autokd:system/bin/autokd \
     vendor/meizu/m2note/proprietary/system/bin/badblocks:system/bin/badblocks \
     vendor/meizu/m2note/proprietary/system/bin/lcdc_screen_cap:system/bin/lcdc_screen_cap \
@@ -41,9 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/matv:system/bin/matv \
     vendor/meizu/m2note/proprietary/system/bin/mc6420d:system/bin/mc6420d \
     vendor/meizu/m2note/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
-    vendor/meizu/m2note/proprietary/system/bin/memorydumper:system/bin/memorydumper \
-    vendor/meizu/m2note/proprietary/system/bin/memsicd:system/bin/memsicd \
-    vendor/meizu/m2note/proprietary/system/bin/memsicd3416x:system/bin/memsicd3416x \
     vendor/meizu/m2note/proprietary/system/bin/meta_tst:system/bin/meta_tst \
     vendor/meizu/m2note/proprietary/system/bin/mfv_ut:system/bin/mfv_ut \
     vendor/meizu/m2note/proprietary/system/bin/mmp:system/bin/mmp \
