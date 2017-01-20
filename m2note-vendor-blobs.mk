@@ -51,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/mtk_agpsd:system/bin/mtk_agpsd \
     vendor/meizu/m2note/proprietary/system/bin/mtk_setprop:system/bin/mtk_setprop \
     vendor/meizu/m2note/proprietary/system/bin/mtkrild:system/bin/mtkrild \
-    vendor/meizu/m2note/proprietary/system/bin/mtkrildmd2:system/bin/mtkrildmd2 \
     vendor/meizu/m2note/proprietary/system/bin/muxreport:system/bin/muxreport \
     vendor/meizu/m2note/proprietary/system/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/meizu/m2note/proprietary/system/bin/nvram_daemon:system/bin/nvram_daemon \
@@ -278,7 +277,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libpq_prot.so:system/lib/libpq_prot.so \
     vendor/meizu/m2note/proprietary/system/lib/libJniAtvService.so:system/lib/libJniAtvService.so \
     vendor/meizu/m2note/proprietary/system/lib/librilmtk.so:system/lib/librilmtk.so \
-    vendor/meizu/m2note/proprietary/system/lib/librilmtkmd2.so:system/lib/librilmtkmd2.so \
     vendor/meizu/m2note/proprietary/system/lib/libsbccodec.so:system/lib/libsbccodec.so \
     vendor/meizu/m2note/proprietary/system/lib/libsec.so:system/lib/libsec.so \
     vendor/meizu/m2note/proprietary/system/lib/libshowlogo.so:system/lib/libshowlogo.so \
@@ -306,9 +304,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.low.conf:system/etc/.tp/thermal.low.conf \
     vendor/meizu/m2note/proprietary/system/etc/.tp/thermal.off.conf:system/etc/.tp/thermal.off.conf \
     vendor/meizu/m2note/proprietary/system/lib/mtk-ril.so:system/lib/mtk-ril.so \
-    vendor/meizu/m2note/proprietary/system/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
     vendor/meizu/m2note/proprietary/system/lib64/mtk-ril.so:system/lib64/mtk-ril.so \
-    vendor/meizu/m2note/proprietary/system/lib64/mtk-rilmd2.so:system/lib64/mtk-rilmd2.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/audio.primary.mt6753.so:system/lib64/hw/audio.primary.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/camera.mt6753.so:system/lib64/hw/camera.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/lights.default.so:system/lib64/hw/lights.default.so \
@@ -442,7 +438,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libpq_cust.so:system/lib64/libpq_cust.so \
     vendor/meizu/m2note/proprietary/system/lib64/libpq_prot.so:system/lib64/libpq_prot.so \
     vendor/meizu/m2note/proprietary/system/lib64/librilmtk.so:system/lib64/librilmtk.so \
-    vendor/meizu/m2note/proprietary/system/lib64/librilmtkmd2.so:system/lib64/librilmtkmd2.so \
     vendor/meizu/m2note/proprietary/system/lib64/libspeech_enh_lib.so:system/lib64/libspeech_enh_lib.so \
     vendor/meizu/m2note/proprietary/system/lib64/libstagefrighthw.so:system/lib64/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib64/libsysutils.so:system/lib64/libsysutils.so \
