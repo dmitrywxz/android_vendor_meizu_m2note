@@ -498,8 +498,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/meizu/m2note/proprietary/system/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/meizu/m2note/proprietary/system/lib64/egl/libGLES_mali.so:system/lib64/egl/libGLES_mali.so \
-    vendor/meizu/m2note/proprietary/system/vendor/lib/hw/audio.a2dp.blueangel.so:system/vendor/lib/hw/audio.a2dp.blueangel.so \
-    vendor/meizu/m2note/proprietary/system/vendor/lib/hw/bluetooth.blueangel.so:system/vendor/lib/hw/bluetooth.blueangel.so \
     vendor/meizu/m2note/proprietary/system/lib/hw/gralloc.mt6753.so:system/lib/hw/gralloc.mt6753.so \
     vendor/meizu/m2note/proprietary/system/lib64/hw/gralloc.mt6753.so:system/lib64/hw/gralloc.mt6753.so \
     vendor/meizu/m2note/proprietary/system/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
