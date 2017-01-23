@@ -62,9 +62,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/s62xd:system/bin/s62xd \
     vendor/meizu/m2note/proprietary/system/bin/terservice:system/bin/terservice \
     vendor/meizu/m2note/proprietary/system/bin/thermal_manager:system/bin/thermal_manager \
-    vendor/meizu/m2note/proprietary/system/bin/tiny_mkswap:system/bin/tiny_mkswap \
-    vendor/meizu/m2note/proprietary/system/bin/tiny_swapoff:system/bin/tiny_swapoff \
-    vendor/meizu/m2note/proprietary/system/bin/tiny_swapon:system/bin/tiny_swapon \
     vendor/meizu/m2note/proprietary/system/bin/wifi2agps:system/bin/wifi2agps \
     vendor/meizu/m2note/proprietary/system/bin/wmt_loader:system/bin/wmt_loader \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
