@@ -443,6 +443,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libudf.so:system/lib64/libudf.so \
     vendor/meizu/m2note/proprietary/system/lib64/libui_ext.so:system/lib64/libui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib64/libvcodecdrv.so:system/lib64/libvcodecdrv.so \
+    vendor/meizu/m2note/proprietary/system/lib64/libvcodec_utility.so:system/lib64/libvcodec_utility.so \
     vendor/meizu/m2note/proprietary/system/lib64/libwapi.so:system/lib64/libwapi.so \
     vendor/meizu/m2note/proprietary/system/lib64/libwifitest.so:system/lib64/libwifitest.so \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
