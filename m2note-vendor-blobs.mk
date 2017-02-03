@@ -429,7 +429,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/librilmtk.so:system/lib64/librilmtk.so \
     vendor/meizu/m2note/proprietary/system/lib64/libspeech_enh_lib.so:system/lib64/libspeech_enh_lib.so \
     vendor/meizu/m2note/proprietary/system/lib64/libstagefrighthw.so:system/lib64/libstagefrighthw.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libsysutils.so:system/lib64/libsysutils.so \
     vendor/meizu/m2note/proprietary/system/lib64/libterservice.so:system/lib64/libterservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libtouchfilter.so:system/lib64/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib64/libudf.so:system/lib64/libudf.so \
