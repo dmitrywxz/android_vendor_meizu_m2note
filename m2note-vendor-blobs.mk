@@ -110,8 +110,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libh264enc_sb.ca7.so:system/lib/libh264enc_sb.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkVideoSpeedEffect.so:system/lib/libMtkVideoSpeedEffect.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkVideoTranscoder.so:system/lib/libMtkVideoTranscoder.so \
-    vendor/meizu/m2note/proprietary/system/lib/libPQDCjni.so:system/lib/libPQDCjni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libPQjni.so:system/lib/libPQjni.so \
     vendor/meizu/m2note/proprietary/system/lib/libSwJpgCodec.so:system/lib/libSwJpgCodec.so \
     vendor/meizu/m2note/proprietary/system/lib/liba3m.so:system/lib/liba3m.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
@@ -126,8 +124,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libacdk.so:system/lib/libacdk.so \
     vendor/meizu/m2note/proprietary/system/lib/libadpcm.so:system/lib/libadpcm.so \
     vendor/meizu/m2note/proprietary/system/lib/libaed.so:system/lib/libaed.so \
-    vendor/meizu/m2note/proprietary/system/lib/libatciserv_jni.so:system/lib/libatciserv_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libatvctrlservice.so:system/lib/libatvctrlservice.so \
     vendor/meizu/m2note/proprietary/system/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
     vendor/meizu/m2note/proprietary/system/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
     vendor/meizu/m2note/proprietary/system/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
@@ -176,17 +172,11 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/meizu/m2note/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/meizu/m2note/proprietary/system/lib/libccci_util.so:system/lib/libccci_util.so \
-    vendor/meizu/m2note/proprietary/system/lib/libcustom_jni.so:system/lib/libcustom_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
-    vendor/meizu/m2note/proprietary/system/lib/libcustom_prop.so:system/lib/libcustom_prop.so \
     vendor/meizu/m2note/proprietary/system/lib/libcvsd_mtk.so:system/lib/libcvsd_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib/libdcfdecoderjni.so:system/lib/libdcfdecoderjni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libdirect-coredump.so:system/lib/libdirect-coredump.so \
     vendor/meizu/m2note/proprietary/system/lib/libdpframework.so:system/lib/libdpframework.so \
     vendor/meizu/m2note/proprietary/system/lib/libem_support_jni.so:system/lib/libem_support_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libextsys.so:system/lib/libextsys.so \
-    vendor/meizu/m2note/proprietary/system/lib/libextsys_jni.so:system/lib/libextsys_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libexttestmode.so:system/lib/libexttestmode.so \
     vendor/meizu/m2note/proprietary/system/lib/libfeatureio.so:system/lib/libfeatureio.so \
     vendor/meizu/m2note/proprietary/system/lib/libfgauge.so:system/lib/libfgauge.so \
     vendor/meizu/m2note/proprietary/system/lib/libfile_op.so:system/lib/libfile_op.so \
@@ -195,26 +185,17 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
     vendor/meizu/m2note/proprietary/system/lib/libgraphite2.so:system/lib/libgraphite2.so \
     vendor/meizu/m2note/proprietary/system/lib/libgui_ext.so:system/lib/libgui_ext.so \
-    vendor/meizu/m2note/proprietary/system/lib/libhotknot.so:system/lib/libhotknot.so \
-    vendor/meizu/m2note/proprietary/system/lib/libhotknot_vendor.so:system/lib/libhotknot_vendor.so \
     vendor/meizu/m2note/proprietary/system/lib/libhwm.so:system/lib/libhwm.so \
     vendor/meizu/m2note/proprietary/system/lib/libimageio.so:system/lib/libimageio.so \
     vendor/meizu/m2note/proprietary/system/lib/libimageio_plat_drv.so:system/lib/libimageio_plat_drv.so \
     vendor/meizu/m2note/proprietary/system/lib/libion.so:system/lib/libion.so \
     vendor/meizu/m2note/proprietary/system/lib/libion_mtk.so:system/lib/libion_mtk.so \
-    vendor/meizu/m2note/proprietary/system/lib/libja3m.so:system/lib/libja3m.so \
-    vendor/meizu/m2note/proprietary/system/lib/libjni_lomoeffect.so:system/lib/libjni_lomoeffect.so \
-    vendor/meizu/m2note/proprietary/system/lib/libjni_pq.so:system/lib/libjni_pq.so \
     vendor/meizu/m2note/proprietary/system/lib/libjtranscode.so:system/lib/libjtranscode.so \
     vendor/meizu/m2note/proprietary/system/lib/libm.so:system/lib/libm.so \
     vendor/meizu/m2note/proprietary/system/lib/libm4u.so:system/lib/libm4u.so \
     vendor/meizu/m2note/proprietary/system/lib/libmatv_cust.so:system/lib/libmatv_cust.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmdloggerrecycle.so:system/lib/libmdloggerrecycle.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmemoryDumpEncoder.so:system/lib/libmemoryDumpEncoder.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmemorydumper.so:system/lib/libmemorydumper.so \
     vendor/meizu/m2note/proprietary/system/lib/libmhalImageCodec.so:system/lib/libmhalImageCodec.so \
     vendor/meizu/m2note/proprietary/system/lib/libmmprofile.so:system/lib/libmmprofile.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmmprofile_jni.so:system/lib/libmmprofile_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libmmsdkservice.so:system/lib/libmmsdkservice.so \
     vendor/meizu/m2note/proprietary/system/lib/libmnl.so:system/lib/libmnl.so \
     vendor/meizu/m2note/proprietary/system/lib/libmp4enc_sa.ca7.so:system/lib/libmp4enc_sa.ca7.so \
@@ -222,9 +203,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmpo.so:system/lib/libmpo.so \
     vendor/meizu/m2note/proprietary/system/lib/libmpodecoder.so:system/lib/libmpodecoder.so \
     vendor/meizu/m2note/proprietary/system/lib/libmpoencoder.so:system/lib/libmpoencoder.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmpojni.so:system/lib/libmpojni.so \
     vendor/meizu/m2note/proprietary/system/lib/libmsbc_mtk.so:system/lib/libmsbc_mtk.so \
-    vendor/meizu/m2note/proprietary/system/lib/libmtb.so:system/lib/libmtb.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtcloader.so:system/lib/libmtcloader.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtk_drvb.so:system/lib/libmtk_drvb.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtk_mmutils.so:system/lib/libmtk_mmutils.so \
@@ -233,7 +212,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtkshifter.so:system/lib/libmtkshifter.so \
     vendor/meizu/m2note/proprietary/system/lib/libn3d3a.so:system/lib/libn3d3a.so \
-    vendor/meizu/m2note/proprietary/system/lib/libnativecheck-jni.so:system/lib/libnativecheck-jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/meizu/m2note/proprietary/system/lib/libnvram.so:system/lib/libnvram.so \
     vendor/meizu/m2note/proprietary/system/lib/libnvram_daemon_callback.so:system/lib/libnvram_daemon_callback.so \
@@ -246,7 +224,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libperfservicenative.so:system/lib/libperfservicenative.so \
     vendor/meizu/m2note/proprietary/system/lib/libpq_cust.so:system/lib/libpq_cust.so \
     vendor/meizu/m2note/proprietary/system/lib/libpq_prot.so:system/lib/libpq_prot.so \
-    vendor/meizu/m2note/proprietary/system/lib/libJniAtvService.so:system/lib/libJniAtvService.so \
     vendor/meizu/m2note/proprietary/system/lib/librilmtk.so:system/lib/librilmtk.so \
     vendor/meizu/m2note/proprietary/system/lib/libsbccodec.so:system/lib/libsbccodec.so \
     vendor/meizu/m2note/proprietary/system/lib/libsec.so:system/lib/libsec.so \
@@ -255,7 +232,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib/libtimestretch.so:system/lib/libtimestretch.so \
     vendor/meizu/m2note/proprietary/system/lib/libtouchfilter.so:system/lib/libtouchfilter.so \
-    vendor/meizu/m2note/proprietary/system/lib/libudf.so:system/lib/libudf.so \
     vendor/meizu/m2note/proprietary/system/lib/libui_ext.so:system/lib/libui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib/libvc1dec_sa.ca7.so:system/lib/libvc1dec_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
@@ -288,8 +264,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libJpgEncPipe.so:system/lib64/libJpgEncPipe.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxCore.so:system/lib64/libMtkOmxCore.so \
     vendor/meizu/m2note/proprietary/system/lib64/libMtkVideoTranscoder.so:system/lib64/libMtkVideoTranscoder.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libPQDCjni.so:system/lib64/libPQDCjni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libPQjni.so:system/lib64/libPQjni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.common.meizu.so:system/lib64/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcfgdevparam.so:system/lib64/libcfgdevparam.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmeizu.camera.algo.so:system/lib64/libmeizu.camera.algo.so \
@@ -301,8 +275,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libaal.so:system/lib64/libaal.so \
     vendor/meizu/m2note/proprietary/system/lib64/libacdk.so:system/lib64/libacdk.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaed.so:system/lib64/libaed.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libatciserv_jni.so:system/lib64/libatciserv_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libatvctrlservice.so:system/lib64/libatvctrlservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiocompensationfilter.so:system/lib64/libaudiocompensationfilter.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiocomponentengine.so:system/lib64/libaudiocomponentengine.so \
     vendor/meizu/m2note/proprietary/system/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
@@ -344,42 +316,28 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
     vendor/meizu/m2note/proprietary/system/lib64/libccci_util.so:system/lib64/libccci_util.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libcustom_jni.so:system/lib64/libcustom_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcustom_nvram.so:system/lib64/libcustom_nvram.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libcustom_prop.so:system/lib64/libcustom_prop.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcvsd_mtk.so:system/lib64/libcvsd_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdcfdecoderjni.so:system/lib64/libdcfdecoderjni.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libdirect-coredump.so:system/lib64/libdirect-coredump.so \
     vendor/meizu/m2note/proprietary/system/lib64/libdpframework.so:system/lib64/libdpframework.so \
     vendor/meizu/m2note/proprietary/system/lib64/libem_support_jni.so:system/lib64/libem_support_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextadvanced_jni.so:system/lib64/libextadvanced_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libextem.so:system/lib64/libextem.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libextsys.so:system/lib64/libextsys.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libextsys_jni.so:system/lib64/libextsys_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libfeatureio.so:system/lib64/libfeatureio.so \
     vendor/meizu/m2note/proprietary/system/lib64/libfile_op.so:system/lib64/libfile_op.so \
     vendor/meizu/m2note/proprietary/system/lib64/libged.so:system/lib64/libged.so \
     vendor/meizu/m2note/proprietary/system/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
     vendor/meizu/m2note/proprietary/system/lib64/libgraphite2.so:system/lib64/libgraphite2.so \
     vendor/meizu/m2note/proprietary/system/lib64/libgui_ext.so:system/lib64/libgui_ext.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libhotknot.so:system/lib64/libhotknot.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libhotknot_vendor.so:system/lib64/libhotknot_vendor.so \
     vendor/meizu/m2note/proprietary/system/lib64/libhwm.so:system/lib64/libhwm.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimageio.so:system/lib64/libimageio.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimageio_plat_drv.so:system/lib64/libimageio_plat_drv.so \
     vendor/meizu/m2note/proprietary/system/lib64/libion.so:system/lib64/libion.so \
     vendor/meizu/m2note/proprietary/system/lib64/libion_mtk.so:system/lib64/libion_mtk.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libja3m.so:system/lib64/libja3m.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libjni_lomoeffect.so:system/lib64/libjni_lomoeffect.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libjni_pq.so:system/lib64/libjni_pq.so \
     vendor/meizu/m2note/proprietary/system/lib64/libm4u.so:system/lib64/libm4u.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmatv_cust.so:system/lib64/libmatv_cust.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmdloggerrecycle.so:system/lib64/libmdloggerrecycle.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmemoryDumpEncoder.so:system/lib64/libmemoryDumpEncoder.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmemorydumper.so:system/lib64/libmemorydumper.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmhalImageCodec.so:system/lib64/libmhalImageCodec.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmmprofile.so:system/lib64/libmmprofile.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libmmprofile_jni.so:system/lib64/libmmprofile_jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmmsdkservice.so:system/lib64/libmmsdkservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmpo.so:system/lib64/libmpo.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmpoencoder.so:system/lib64/libmpoencoder.so \
@@ -391,7 +349,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmtkshifter.so:system/lib64/libmtkshifter.so \
     vendor/meizu/m2note/proprietary/system/lib64/liblogwrap.so:system/lib64/liblogwrap.so \
     vendor/meizu/m2note/proprietary/system/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libnativecheck-jni.so:system/lib64/libnativecheck-jni.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnfc_ndef.so:system/lib64/libnfc_ndef.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram.so:system/lib64/libnvram.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram_daemon_callback.so:system/lib64/libnvram_daemon_callback.so \
@@ -407,12 +364,9 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libstagefrighthw.so:system/lib64/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib64/libterservice.so:system/lib64/libterservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libtouchfilter.so:system/lib64/libtouchfilter.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libudf.so:system/lib64/libudf.so \
     vendor/meizu/m2note/proprietary/system/lib64/libui_ext.so:system/lib64/libui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib64/libvcodecdrv.so:system/lib64/libvcodecdrv.so \
     vendor/meizu/m2note/proprietary/system/lib64/libvcodec_utility.so:system/lib64/libvcodec_utility.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libwapi.so:system/lib64/libwapi.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libwifitest.so:system/lib64/libwifitest.so \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
     vendor/meizu/m2note/proprietary/system/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
