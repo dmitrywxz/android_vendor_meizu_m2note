@@ -255,7 +255,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libpalwlan_mtk.so:system/lib/libpalwlan_mtk.so \
     vendor/meizu/m2note/proprietary/system/lib/libperfservice.so:system/lib/libperfservice.so \
     vendor/meizu/m2note/proprietary/system/lib/libperfservicenative.so:system/lib/libperfservicenative.so \
-    vendor/meizu/m2note/proprietary/system/lib/libpppbtdun.so:system/lib/libpppbtdun.so \
     vendor/meizu/m2note/proprietary/system/lib/libpq_cust.so:system/lib/libpq_cust.so \
     vendor/meizu/m2note/proprietary/system/lib/libpq_prot.so:system/lib/libpq_prot.so \
     vendor/meizu/m2note/proprietary/system/lib/libJniAtvService.so:system/lib/libJniAtvService.so \
@@ -264,7 +263,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libsec.so:system/lib/libsec.so \
     vendor/meizu/m2note/proprietary/system/lib/libshowlogo.so:system/lib/libshowlogo.so \
     vendor/meizu/m2note/proprietary/system/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
-    vendor/meizu/m2note/proprietary/system/lib/libssladp.so:system/lib/libssladp.so \
     vendor/meizu/m2note/proprietary/system/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/meizu/m2note/proprietary/system/lib/libtimestretch.so:system/lib/libtimestretch.so \
     vendor/meizu/m2note/proprietary/system/lib/libtouchfilter.so:system/lib/libtouchfilter.so \
@@ -413,7 +411,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libnvramagentclient.so:system/lib64/libnvramagentclient.so \
     vendor/meizu/m2note/proprietary/system/lib64/libperfservice.so:system/lib64/libperfservice.so \
     vendor/meizu/m2note/proprietary/system/lib64/libperfservicenative.so:system/lib64/libperfservicenative.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libpppbtdun.so:system/lib64/libpppbtdun.so \
     vendor/meizu/m2note/proprietary/system/lib64/libpq_cust.so:system/lib64/libpq_cust.so \
     vendor/meizu/m2note/proprietary/system/lib64/libpq_prot.so:system/lib64/libpq_prot.so \
     vendor/meizu/m2note/proprietary/system/lib64/librilmtk.so:system/lib64/librilmtk.so \
