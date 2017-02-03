@@ -17,15 +17,12 @@
 PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/6620_launcher:system/bin/6620_launcher \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
-    vendor/meizu/m2note/proprietary/system/bin/badblocks:system/bin/badblocks \
-    vendor/meizu/m2note/proprietary/system/bin/lcdc_screen_cap:system/bin/lcdc_screen_cap \
     vendor/meizu/m2note/proprietary/system/bin/bmm050d:system/bin/bmm050d \
     vendor/meizu/m2note/proprietary/system/bin/btconfig:system/bin/btconfig \
     vendor/meizu/m2note/proprietary/system/bin/btlogmask:system/bin/btlogmask \
     vendor/meizu/m2note/proprietary/system/bin/ccci_fsd:system/bin/ccci_fsd \
     vendor/meizu/m2note/proprietary/system/bin/ccci_mdinit:system/bin/ccci_mdinit \
     vendor/meizu/m2note/proprietary/system/bin/em_svr:system/bin/em_svr \
-    vendor/meizu/m2note/proprietary/system/bin/fsck_msdos_mtk:system/bin/fsck_msdos_mtk \
     vendor/meizu/m2note/proprietary/system/bin/fuelgauged:system/bin/fuelgauged \
     vendor/meizu/m2note/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/meizu/m2note/proprietary/system/bin/gsm0710muxd:system/bin/gsm0710muxd \
@@ -36,20 +33,13 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/mc6420d:system/bin/mc6420d \
     vendor/meizu/m2note/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
     vendor/meizu/m2note/proprietary/system/bin/meta_tst:system/bin/meta_tst \
-    vendor/meizu/m2note/proprietary/system/bin/mfv_ut:system/bin/mfv_ut \
-    vendor/meizu/m2note/proprietary/system/bin/mmp:system/bin/mmp \
     vendor/meizu/m2note/proprietary/system/bin/msensord:system/bin/msensord \
     vendor/meizu/m2note/proprietary/system/bin/mtk_agpsd:system/bin/mtk_agpsd \
-    vendor/meizu/m2note/proprietary/system/bin/mtk_setprop:system/bin/mtk_setprop \
     vendor/meizu/m2note/proprietary/system/bin/mtkrild:system/bin/mtkrild \
     vendor/meizu/m2note/proprietary/system/bin/muxreport:system/bin/muxreport \
-    vendor/meizu/m2note/proprietary/system/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/meizu/m2note/proprietary/system/bin/nvram_daemon:system/bin/nvram_daemon \
     vendor/meizu/m2note/proprietary/system/bin/orientationd:system/bin/orientationd \
-    vendor/meizu/m2note/proprietary/system/bin/permission_check:system/bin/permission_check \
-    vendor/meizu/m2note/proprietary/system/bin/ppl_agent:system/bin/ppl_agent \
     vendor/meizu/m2note/proprietary/system/bin/pq:system/bin/pq \
-    vendor/meizu/m2note/proprietary/system/bin/rtt:system/bin/rtt \
     vendor/meizu/m2note/proprietary/system/bin/s62xd:system/bin/s62xd \
     vendor/meizu/m2note/proprietary/system/bin/terservice:system/bin/terservice \
     vendor/meizu/m2note/proprietary/system/bin/thermal_manager:system/bin/thermal_manager \
