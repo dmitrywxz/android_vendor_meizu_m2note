@@ -52,12 +52,8 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/ble_stack.conf:system/etc/bluetooth/ble_stack.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/btconfig.xml:system/etc/bluetooth/btconfig.xml \
-    vendor/meizu/m2note/proprietary/system/etc/clatd.conf:system/etc/clatd.conf \
     vendor/meizu/m2note/proprietary/system/etc/custom.conf:system/etc/custom.conf \
     vendor/meizu/m2note/proprietary/system/etc/perfservscntbl.txt:system/etc/perfservscntbl.txt \
-    vendor/meizu/m2note/proprietary/system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf:system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf \
-    vendor/meizu/m2note/proprietary/system/etc/dhcpcd/dhcpcd-hooks/95-configured:system/etc/dhcpcd/dhcpcd-hooks/95-configured \
-    vendor/meizu/m2note/proprietary/system/etc/dhcpcd/dhcpcd-run-hooks:system/etc/dhcpcd/dhcpcd-run-hooks \
     vendor/meizu/m2note/proprietary/system/etc/firmware/catcher_filter_1_ltg_n.bin:system/etc/firmware/catcher_filter_1_ltg_n.bin \
     vendor/meizu/m2note/proprietary/system/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
     vendor/meizu/m2note/proprietary/system/etc/firmware/dsp_1_ltg_n.bin:system/etc/firmware/dsp_1_ltg_n.bin \
@@ -70,7 +66,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
     vendor/meizu/m2note/proprietary/system/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
     vendor/meizu/m2note/proprietary/system/etc/mtklog-config.prop:system/etc/mtklog-config.prop \
-    vendor/meizu/m2note/proprietary/system/etc/radvd/radvd.conf:system/etc/radvd/radvd.conf \
     vendor/meizu/m2note/proprietary/system/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/meizu/m2note/proprietary/system/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/meizu/m2note/proprietary/system/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
