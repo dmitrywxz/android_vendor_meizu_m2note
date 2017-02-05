@@ -225,7 +225,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libshowlogo.so:system/lib/libshowlogo.so \
     vendor/meizu/m2note/proprietary/system/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
     vendor/meizu/m2note/proprietary/system/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
-    vendor/meizu/m2note/proprietary/system/lib/libtimestretch.so:system/lib/libtimestretch.so \
     vendor/meizu/m2note/proprietary/system/lib/libtouchfilter.so:system/lib/libtouchfilter.so \
     vendor/meizu/m2note/proprietary/system/lib/libui_ext.so:system/lib/libui_ext.so \
     vendor/meizu/m2note/proprietary/system/lib/libvc1dec_sa.ca7.so:system/lib/libvc1dec_sa.ca7.so \
