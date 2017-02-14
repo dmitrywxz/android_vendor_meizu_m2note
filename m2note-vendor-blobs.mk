@@ -230,10 +230,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
     vendor/meizu/m2note/proprietary/system/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/meizu/m2note/proprietary/system/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
-    vendor/meizu/m2note/proprietary/system/lib/libvie.so:system/lib/libvie.so \
-    vendor/meizu/m2note/proprietary/system/lib/libvie_jni.so:system/lib/libvie_jni.so \
-    vendor/meizu/m2note/proprietary/system/lib/libvoicerecognition.so:system/lib/libvoicerecognition.so \
-    vendor/meizu/m2note/proprietary/system/lib/libvoicerecognition_jni.so:system/lib/libvoicerecognition_jni.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp8dec_sa.ca7.so:system/lib/libvp8dec_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp8enc_sa.ca7.so:system/lib/libvp8enc_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libvp9dec_sa.ca7.so:system/lib/libvp9dec_sa.ca7.so \
