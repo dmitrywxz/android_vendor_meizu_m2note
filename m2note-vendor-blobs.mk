@@ -193,6 +193,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libimageio.so:system/lib/libimageio.so \
     vendor/meizu/m2note/proprietary/system/lib/libimageio_plat_drv.so:system/lib/libimageio_plat_drv.so \
     vendor/meizu/m2note/proprietary/system/lib/libion_mtk.so:system/lib/libion_mtk.so \
+    vendor/meizu/m2note/proprietary/system/lib/libgralloc_extra.so:system/lib/libgralloc_extra.so \
     vendor/meizu/m2note/proprietary/system/lib/libjtranscode.so:system/lib/libjtranscode.so \
     vendor/meizu/m2note/proprietary/system/lib/libm.so:system/lib/libm.so \
     vendor/meizu/m2note/proprietary/system/lib/libm4u.so:system/lib/libm4u.so \
@@ -331,6 +332,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libimageio.so:system/lib64/libimageio.so \
     vendor/meizu/m2note/proprietary/system/lib64/libimageio_plat_drv.so:system/lib64/libimageio_plat_drv.so \
     vendor/meizu/m2note/proprietary/system/lib64/libion_mtk.so:system/lib64/libion_mtk.so \
+    vendor/meizu/m2note/proprietary/system/lib64/libgralloc_extra.so:system/lib64/libgralloc_extra.so \
     vendor/meizu/m2note/proprietary/system/lib64/libm4u.so:system/lib64/libm4u.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmatv_cust.so:system/lib64/libmatv_cust.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmhalImageCodec.so:system/lib64/libmhalImageCodec.so \
