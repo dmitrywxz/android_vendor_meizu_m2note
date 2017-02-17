@@ -216,7 +216,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
     vendor/meizu/m2note/proprietary/system/lib/libmtkshifter.so:system/lib/libmtkshifter.so \
     vendor/meizu/m2note/proprietary/system/lib/libn3d3a.so:system/lib/libn3d3a.so \
-    vendor/meizu/m2note/proprietary/system/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/meizu/m2note/proprietary/system/lib/libnvram.so:system/lib/libnvram.so \
     vendor/meizu/m2note/proprietary/system/lib/libnvram_daemon_callback.so:system/lib/libnvram_daemon_callback.so \
     vendor/meizu/m2note/proprietary/system/lib/libnvram_platform.so:system/lib/libnvram_platform.so \
@@ -348,7 +347,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libmtkshifter.so:system/lib64/libmtkshifter.so \
     vendor/meizu/m2note/proprietary/system/lib64/liblogwrap.so:system/lib64/liblogwrap.so \
     vendor/meizu/m2note/proprietary/system/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libnfc_ndef.so:system/lib64/libnfc_ndef.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram.so:system/lib64/libnvram.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram_daemon_callback.so:system/lib64/libnvram_daemon_callback.so \
     vendor/meizu/m2note/proprietary/system/lib64/libnvram_platform.so:system/lib64/libnvram_platform.so \
