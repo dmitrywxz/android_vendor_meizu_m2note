@@ -27,8 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/6620_launcher:system/bin/6620_launcher \
     vendor/meizu/m2note/proprietary/system/bin/ami304d:system/bin/ami304d \
     vendor/meizu/m2note/proprietary/system/bin/bmm050d:system/bin/bmm050d \
-    vendor/meizu/m2note/proprietary/system/bin/btconfig:system/bin/btconfig \
-    vendor/meizu/m2note/proprietary/system/bin/btlogmask:system/bin/btlogmask \
     vendor/meizu/m2note/proprietary/system/bin/ccci_fsd:system/bin/ccci_fsd \
     vendor/meizu/m2note/proprietary/system/bin/ccci_mdinit:system/bin/ccci_mdinit \
     vendor/meizu/m2note/proprietary/system/bin/em_svr:system/bin/em_svr \
@@ -142,14 +140,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libbluetooth_relayer.so:system/lib/libbluetooth_relayer.so \
     vendor/meizu/m2note/proprietary/system/lib/libbluetoothdrv.so:system/lib/libbluetoothdrv.so \
     vendor/meizu/m2note/proprietary/system/lib/libbluetoothem_mtk.so:system/lib/libbluetoothem_mtk.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtcust.so:system/lib/libbtcust.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtcusttable.so:system/lib/libbtcusttable.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtcusttc1.so:system/lib/libbtcusttc1.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtem.so:system/lib/libbtem.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtpcm.so:system/lib/libbtpcm.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtsession.so:system/lib/libbtsession.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtsniff.so:system/lib/libbtsniff.so \
-    vendor/meizu/m2note/proprietary/system/lib/libbtstd.so:system/lib/libbtstd.so \
     vendor/meizu/m2note/proprietary/system/lib/libbwc.so:system/lib/libbwc.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.camadapter.so:system/lib/libcam.camadapter.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.camnode.so:system/lib/libcam.camnode.so \
@@ -285,9 +275,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib64/libbluetooth_relayer.so:system/lib64/libbluetooth_relayer.so \
     vendor/meizu/m2note/proprietary/system/lib64/libbluetoothdrv.so:system/lib64/libbluetoothdrv.so \
     vendor/meizu/m2note/proprietary/system/lib64/libbluetoothem_mtk.so:system/lib64/libbluetoothem_mtk.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libbtcusttable.so:system/lib64/libbtcusttable.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libbtem.so:system/lib64/libbtem.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libbtstd.so:system/lib64/libbtstd.so \
     vendor/meizu/m2note/proprietary/system/lib64/libbwc.so:system/lib64/libbwc.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.camadapter.so:system/lib64/libcam.camadapter.so \
     vendor/meizu/m2note/proprietary/system/lib64/libcam.camnode.so:system/lib64/libcam.camnode.so \
