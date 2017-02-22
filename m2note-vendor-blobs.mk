@@ -87,19 +87,9 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libGdmaScalerPipe.so:system/lib/libGdmaScalerPipe.so \
     vendor/meizu/m2note/proprietary/system/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
     vendor/meizu/m2note/proprietary/system/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxAdpcmDec.so:system/lib/libMtkOmxAdpcmDec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxAdpcmEnc.so:system/lib/libMtkOmxAdpcmEnc.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxAlacDec.so:system/lib/libMtkOmxAlacDec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxCore.so:system/lib/libMtkOmxCore.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxFlacDec.so:system/lib/libMtkOmxFlacDec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxG711Dec.so:system/lib/libMtkOmxG711Dec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxGsmDec.so:system/lib/libMtkOmxGsmDec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxMp3Dec.so:system/lib/libMtkOmxMp3Dec.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxRawDec.so:system/lib/libMtkOmxRawDec.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVdec.so:system/lib/libMtkOmxVdec.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVenc.so:system/lib/libMtkOmxVenc.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVorbisEnc.so:system/lib/libMtkOmxVorbisEnc.so \
     vendor/meizu/m2note/proprietary/system/lib/libHEVCdec_sa.ca7.android.so:system/lib/libHEVCdec_sa.ca7.android.so \
     vendor/meizu/m2note/proprietary/system/lib/libh264enc_sa.ca7.so:system/lib/libh264enc_sa.ca7.so \
     vendor/meizu/m2note/proprietary/system/lib/libh264enc_sb.ca7.so:system/lib/libh264enc_sb.ca7.so \
@@ -394,13 +384,4 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libmmsdkservice.feature.so:system/lib/libmmsdkservice.feature.so \
     vendor/meizu/m2note/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
     vendor/meizu/m2note/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxAdpcmEnc.so:system/lib64/libMtkOmxAdpcmEnc.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxAlacDec.so:system/lib64/libMtkOmxAlacDec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxApeDec.so:system/lib64/libMtkOmxApeDec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxG711Dec.so:system/lib64/libMtkOmxG711Dec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxGsmDec.so:system/lib64/libMtkOmxGsmDec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxMp3Dec.so:system/lib64/libMtkOmxMp3Dec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxRawDec.so:system/lib64/libMtkOmxRawDec.so \
-    vendor/meizu/m2note/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so
+    vendor/meizu/m2note/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so
