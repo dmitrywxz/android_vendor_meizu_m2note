@@ -63,7 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin:system/etc/firmware/ROMv2_lm_patch_1_1_hdr.bin \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
     vendor/meizu/m2note/proprietary/system/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
-    vendor/meizu/m2note/proprietary/system/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
+    vendor/meizu/m2note/proprietary/system/vendor/etc/mtk_omx_core.cfg:system/vendor/etc/mtk_omx_core.cfg \
     vendor/meizu/m2note/proprietary/system/etc/mtklog-config.prop:system/etc/mtklog-config.prop \
     vendor/meizu/m2note/proprietary/system/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/meizu/m2note/proprietary/system/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
@@ -88,7 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
     vendor/meizu/m2note/proprietary/system/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxCore.so:system/lib/libMtkOmxCore.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVdec.so:system/lib/libMtkOmxVdec.so \
+    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVdecEx.so:system/lib/libMtkOmxVdec.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVenc.so:system/lib/libMtkOmxVenc.so \
     vendor/meizu/m2note/proprietary/system/lib/libHEVCdec_sa.ca7.android.so:system/lib/libHEVCdec_sa.ca7.android.so \
     vendor/meizu/m2note/proprietary/system/lib/libh264enc_sa.ca7.so:system/lib/libh264enc_sa.ca7.so \
@@ -99,11 +99,14 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/liba3m.so:system/lib/liba3m.so \
     vendor/meizu/m2note/proprietary/system/lib/libcam.common.meizu.so:system/lib/libcam.common.meizu.so \
     vendor/meizu/m2note/proprietary/system/lib/libcfgdevparam.so:system/lib/libcfgdevparam.so \
+    vendor/meizu/m2note/proprietary/system/lib/libClearMotionFW.so:system/lib/libClearMotionFW.so \
     vendor/meizu/m2note/proprietary/system/lib/libextem.so:system/lib/libextem.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizu.camera.algo.so:system/lib/libmeizu.camera.algo.so \
     vendor/meizu/m2note/proprietary/system/lib/libmeizucamera.so:system/lib/libmeizucamera.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkVideoSpeedEffect.so:system/lib/libMtkVideoSpeedEffect.so \
     vendor/meizu/m2note/proprietary/system/lib/librender_engine.so:system/lib/librender_engine.so \
+    vendor/meizu/m2note/proprietary/system/lib/librrc.so:system/lib/librrc.so \
+    vendor/meizu/m2note/proprietary/system/lib64/librrc.so:system/lib64/librrc.so \
     vendor/meizu/m2note/proprietary/system/lib/libsfb.so:system/lib/libsfb.so \
     vendor/meizu/m2note/proprietary/system/lib/libacdk.so:system/lib/libacdk.so \
     vendor/meizu/m2note/proprietary/system/lib/libadpcm.so:system/lib/libadpcm.so \
