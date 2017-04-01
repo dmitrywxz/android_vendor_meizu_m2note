@@ -88,7 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/lib/libJpgDecPipe.so:system/lib/libJpgDecPipe.so \
     vendor/meizu/m2note/proprietary/system/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxCore.so:system/lib/libMtkOmxCore.so \
-    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVdecEx.so:system/lib/libMtkOmxVdec.so \
+    vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVdecEx.so:system/lib/libMtkOmxVdecEx.so \
     vendor/meizu/m2note/proprietary/system/lib/libMtkOmxVenc.so:system/lib/libMtkOmxVenc.so \
     vendor/meizu/m2note/proprietary/system/lib/libHEVCdec_sa.ca7.android.so:system/lib/libHEVCdec_sa.ca7.android.so \
     vendor/meizu/m2note/proprietary/system/lib/libh264enc_sa.ca7.so:system/lib/libh264enc_sa.ca7.so \
