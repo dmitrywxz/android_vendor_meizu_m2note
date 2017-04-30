@@ -50,6 +50,8 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/ble_stack.conf:system/etc/bluetooth/ble_stack.conf \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
+    vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_stack.conf.debug:system/etc/bluetooth/bt_stack.conf.debug \
+    vendor/meizu/m2note/proprietary/system/etc/bluetooth/bt_stack.conf.sqc:system/etc/bluetooth/bt_stack.conf.sqc \
     vendor/meizu/m2note/proprietary/system/etc/bluetooth/btconfig.xml:system/etc/bluetooth/btconfig.xml \
     vendor/meizu/m2note/proprietary/system/etc/custom.conf:system/etc/custom.conf \
     vendor/meizu/m2note/proprietary/system/etc/perfservscntbl.txt:system/etc/perfservscntbl.txt \
