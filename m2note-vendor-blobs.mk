@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m2note/proprietary/system/bin/fuelgauged:system/bin/fuelgauged \
     vendor/meizu/m2note/proprietary/system/bin/gsm0710muxd:system/bin/gsm0710muxd \
     vendor/meizu/m2note/proprietary/system/bin/kpoc_charger:system/bin/kpoc_charger \
-    vendor/meizu/m2note/proprietary/system/bin/lsm303md:system/bin/lsm303md \
     vendor/meizu/m2note/proprietary/system/bin/md_ctrl:system/bin/md_ctrl \
     vendor/meizu/m2note/proprietary/system/bin/meta_tst:system/bin/meta_tst \
     vendor/meizu/m2note/proprietary/system/bin/msensord:system/bin/msensord \
