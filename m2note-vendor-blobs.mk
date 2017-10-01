@@ -18,21 +18,9 @@
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/meizu/m2note/lib,system/lib)
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/meizu/m2note/lib64,system/lib64)
 
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/meizu/m2note/etc,system/etc)
+
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/meizu/m2note/xbin,system/xbin)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/meizu/m2note/usr,system/usr)
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/meizu/m2note/vendor,system/vendor)
-
-PRODUCT_COPY_FILES += \
-    vendor/meizu/m2note/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
-    vendor/meizu/m2note/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
-    vendor/meizu/m2note/etc/bluetooth/iot_devlist.conf:system/etc/bluetooth/iot_devlist.conf \
-    vendor/meizu/m2note/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
-    vendor/meizu/m2note/etc/bluetooth/ble_stack.conf:system/etc/bluetooth/ble_stack.conf \
-    vendor/meizu/m2note/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
-    vendor/meizu/m2note/etc/bluetooth/bt_stack.conf.debug:system/etc/bluetooth/bt_stack.conf.debug \
-    vendor/meizu/m2note/etc/bluetooth/bt_stack.conf.sqc:system/etc/bluetooth/bt_stack.conf.sqc \
-    vendor/meizu/m2note/etc/bluetooth/btconfig.xml:system/etc/bluetooth/btconfig.xml \
-    vendor/meizu/m2note/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
-    vendor/meizu/m2note/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
-    vendor/meizu/m2note/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf
